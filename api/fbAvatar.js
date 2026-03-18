@@ -12,11 +12,14 @@ async function getAvatarUrl(uid) {
 
   try {
     const cacheDir = path.join(__dirname, "..", "cache");
-    if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir, { recursive: true });
+
+    if (!fs.existsSync(cacheDir)) {
+      fs.mkdirSync(cacheDir, { recursive: true });
+    }
 
     const filePath = path.join(cacheDir, `avatar_${uid}.jpg`);
 
-    // already cached
+    // cache check
     if (fs.existsSync(filePath)) return filePath;
 
     const res = await axios.get(
@@ -24,7 +27,7 @@ async function getAvatarUrl(uid) {
       {
         params: {
           uid,
-          apikey: process.env.RAKIB_API_KEY || "rakib69"
+          apikey: "rakib69"
         },
         responseType: "stream",
         timeout: 15000
@@ -42,8 +45,8 @@ async function getAvatarUrl(uid) {
 
     return filePath;
 
-  } catch (e) {
-    console.error("getAvatarUrl error:", e.message);
+  } catch (err) {
+    console.error("fbAvatar API error:", err.message);
     return null;
   }
 }
