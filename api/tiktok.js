@@ -9,7 +9,7 @@ async function tikApi(url) {
   if (!url) return { error: "No URL provided" };
 
   try {
-    const apiURL = `https://rakib-tik-api.onrender.com/api/tiktok?url=${encodeURIComponent(url)}&apikey=rakib69`;
+    const apiURL = `https://api-rakib-tik.onrender.com/api/tiktok?url=${encodeURIComponent(url)}&apikey=rakib69`;
 
     const response = await axios.get(apiURL, {
       timeout: 15000
