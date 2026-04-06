@@ -19,7 +19,7 @@ async function createFbCover(data, outputPath) {
       template
     } = data;
 
-    const apiURL = `https://fb-cover-sali.onrender.com/api/fbcover?name=${encodeURIComponent(name)}&subname=${encodeURIComponent(subname)}&email=${encodeURIComponent(email)}&phone=${encodeURIComponent(phone)}&team=${encodeURIComponent(team)}&uid=${encodeURIComponent(uid)}&template=${template}&apikey=rakib69`;
+    const apiURL = `https://rakib-gfx-api.onrender.com/api/fbcover?name=${encodeURIComponent(name)}&subname=${encodeURIComponent(subname)}&email=${encodeURIComponent(email)}&phone=${encodeURIComponent(phone)}&team=${encodeURIComponent(team)}&uid=${encodeURIComponent(uid)}&template=${template}&apikey=rakib69`;
 
     const response = await axios({
       method: "GET",
