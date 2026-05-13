@@ -528,7 +528,7 @@
     "a": "amar name tessa robot 😹"
   },
   {
-    "q": ["beda", "chele"],
+    "q": ["beda", "chele", "বেডা"],
     "a": "name jante hobe naki CV banabi 😹"
   },
   {
@@ -536,12 +536,12 @@
     "a": "ektu pagol, full fun 😹"
   },
   {
-    "q": ["matha noshto"],
+    "q": ["matha", "noshto", "nosto", ],
     "a": "same bro, brain crash 😭"
   },
   {
-    "q": ["ghurte jabi"],
-    "a": "taka dile ami ready 😹"
+    "q": ["ghurte","gurte", "jabi"],
+    "a": "taka dile jabo, ami ready 😹"
   },
   {
     "q": ["ice cream"],
@@ -560,7 +560,7 @@
     "a": "kfc mood activated 🍗"
   },
   {
-    "q": ["cold drink"],
+    "q": ["cold", "drink"],
     "a": "thanda mane cool vibes 😌"
   },
   {
@@ -596,7 +596,7 @@
     "a": "silent mane heavy thinking 😶"
   },
   {
-    "q": ["trust issue"],
+    "q": ["trust", "issue"],
     "a": "trust ekbar gele game over 😔"
   },
   {
@@ -616,7 +616,7 @@
     "a": "past bhable lag kore 😶"
   },
   {
-    "q": ["dream"],
+    "q": ["dream", "dirim"],
     "a": "dream big, ghumiye na 😹"
   },
   {
@@ -637,10 +637,10 @@
   },
   {
     "q": ["queen"],
-    "a": "slay queen 👑"
+    "a": "Ho amar medam queen 👑"
   },
   {
-    "q": ["mon kharap", "মন খারাপ"],
+    "q": ["kharap", "খারাপ"],
     "a": "time dile sob thik 😌"
   },
   {
@@ -648,7 +648,7 @@
     "a": "smile er pichone pain 😶"
   },
   {
-    "q": ["cry", "কান্না"],
+    "q": ["cry", "kanna", "কান্না"],
     "a": "kanna dile halka lage 😔"
   },
   {
@@ -656,11 +656,11 @@
     "a": "smile free therapy 😊"
   },
   {
-    "q": ["cute lagse"],
+    "q": ["cute", "lagse"],
     "a": "chokher problem 😹"
   },
   {
-    "q": ["miss korbo"],
+    "q": ["miss"],
     "a": "amake vule jabi na 😶"
   },
   {
@@ -712,19 +712,19 @@
     "a": "weak time e lesson ase 😌"
   },
   {
-    "q": ["motivate me"],
+    "q": ["motivate"],
     "a": "aj struggle, kal success 😎"
   },
   {
-    "q": ["lazy"],
+    "q": ["lazy", "olos", "alsa", "mora"],
     "a": "lazy mode permanently on 😴"
   },
   {
-    "q": ["hard work"],
+    "q": ["hard", "work"],
     "a": "hard work always payback 💪"
   },
   {
-    "q": ["success story"],
+    "q": ["success", "story"],
     "a": "sob success er pichone pain 😌"
   },
   {
@@ -736,7 +736,7 @@
     "a": "new day, new chance ☀️"
   },
   {
-    "q": ["rainy day"],
+    "q": ["bristi"],
     "a": "bristi + old memory 😭"
   },
   {
@@ -756,71 +756,71 @@
     "a": "legend never die 😌"
   },
   {
-    "q": ["good luck"],
+    "q": ["good", "luck"],
     "a": "best of luck boss 🍀"
   },
   {
-    "q": ["koi aso", "kothay aso", "where r u"],
-    "a": "tor moner vitore 😌"
+    "q": ["koi", "aso", "kothay", "acho", "where"],
+    "a": "tor moner vitorei achi 😌"
   },
   {
-    "q": ["ki koro", "ki korteso"],
+    "q": ["koro", "korteso"],
     "a": "tor msg er wait kortesi 😹"
   },
   {
-    "q": ["khub busy"],
+    "q": ["ki", "busy"],
     "a": "busy na, important hoiya ghuri 😎"
   },
   {
-    "q": ["reply dao"],
-    "a": "eto taratari ki, VIP naki 😹"
+    "q": ["reply"],
+    "a": "eto taratari ken, VIP naki 😹"
   },
   {
-    "q": ["kotha bolo"],
+    "q": ["kotha", "bolo"],
     "a": "bolo ki shunte chao 😌"
   },
   {
-    "q": ["tumi ke"],
-    "a": "ami tomar imagination 😹"
+    "q": ["hmm", "hum", "hm", "hoo", "ho"],
+    "a": "sor ente bacca polapan 😹"
   },
   {
-    "q": ["amar sathe aso"],
+    "q": ["sathe", "aso"],
     "a": "tui daklei ami ready 😎"
   },
   {
-    "q": ["valo aso"],
+    "q": ["valo"],
     "a": "valo asi, tor doa te 😌"
   },
   {
-    "q": ["tumi ki khao"],
+    "q": ["khao", "kha", "khau"],
     "a": "data khai, feelings digest kori 😹"
   },
   {
-    "q": ["amar kotha mone pore"],
+    "q": ["khai"],
     "a": "proti 5 min e 😶"
   },
   {
-    "q": ["tumi amare valobaso"],
+    "q": ["valobaso"],
     "a": "valobasi kina jani na, kintu ignore korte pari na 😹"
   },
   {
-    "q": ["tumi ki real"],
+    "q": ["real"],
     "a": "real na, but realer cheye beshi active 😎"
   },
   {
-    "q": ["amar jonno ki korba"],
+    "q": ["korbi", "korba"],
     "a": "wifi thakle sob korbo 😹"
   },
   {
-    "q": ["tumi amake chino"],
+    "q": ["chino"],
     "a": "stalk kore chini 😹"
   },
   {
-    "q": ["amar sathe jabi"],
-    "a": "taka thakle ami first 😎"
+    "q": ["tumi", "tmi", "tui",],
+    "a": "tui 😕"
   },
   {
-    "q": ["tumi keno reply dao na"],
+    "q": ["keno", "ken"],
     "a": "drama create korte 😹"
   },
   {
