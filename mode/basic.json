@@ -20,15 +20,15 @@
     "a": "welcome boss, aro lagle bol 😹"
   },
   {
-    "q": ["কি করো", "কি করছ", "what are you doing"],
+    "q": ["কি করো", "কি করছ", "ki koros", "ki koren", "ki koro"],
     "a": "tor kotha vabta asi, serious 😶"
   },
   {
-    "q": ["ভালোবাসো", "love me", "আমাকে ভালোবাসো"],
+    "q": ["ভালোবাসো", "love me", "valobaso", "আমাকে ভালোবাসো"],
     "a": "love e gele life ulta hoye jay 😹"
   },
   {
-    "q": ["খাইছো", "খেয়েছ", "eat"],
+    "q": ["খাইছো", "khaico", "খেয়েছ", "eat"],
     "a": "nai re, treat dile ekhon e khai 😋"
   },
   {
@@ -48,7 +48,7 @@
     "a": "single life premium version 😌"
   },
   {
-    "q": ["miss you", "মিস করি"],
+    "q": ["miss you", "miss","মিস করি"],
     "a": "amio kori, kintu bolina 😹"
   },
   {
@@ -60,11 +60,11 @@
     "a": "good night, phone chara ghumabi 😹"
   },
   {
-    "q": ["ki obosta", "কি অবস্থা", "kemon aso"],
+    "q": ["obosta", "অবস্থা", "kemon aso"],
     "a": "alhamdulillah, bachi somehow 😹"
   },
   {
-    "q": ["free acho", "ফ্রি আছো"],
+    "q": ["free", "ফ্রি"],
     "a": "tor jonno always free 😌"
   },
   {
@@ -72,7 +72,7 @@
     "a": "busy na, important hoye ghurtesi 😹"
   },
   {
-    "q": ["rag korso", "রাগ করছো"],
+    "q": ["rag", "রাগ"],
     "a": "ektu rag ase, chocolate dile thik 😌"
   },
   {
@@ -84,7 +84,7 @@
     "a": "astaghfirullah, control bro 😭"
   },
   {
-    "q": ["biye", "বিয়ে"],
+    "q": ["biye", "biya", "বিয়ে"],
     "a": "age taka earn kor, tarpor biye 😹"
   },
   {
@@ -128,11 +128,11 @@
     "a": "fail hoileo life over na boss 😌"
   },
   {
-    "q": ["tired", "ক্লান্ত"],
+    "q": ["tired", "klanto", "ক্লান্ত"],
     "a": "rest ne, nahole hang hoye jabi 😴"
   },
   {
-    "q": ["angry", "রেগে আছি"],
+    "q": ["angry","rege achi", "রেগে আছি"],
     "a": "rag kom, blood pressure barse 😹"
   },
   {
@@ -188,7 +188,7 @@
     "a": "sobai influencer hoye gese 😌"
   },
   {
-    "q": ["youtube"],
+    "q": ["youtube","yt"],
     "a": "ad skip korte vule na 😹"
   },
   {
@@ -204,7 +204,7 @@
     "a": "enemy ahead, ar ami dead 😭"
   },
   {
-    "q": ["free fire", "ff"],
+    "q": ["freefire", "free fire", "ff"],
     "a": "booyah bolte bolte game sesh 😹"
   },
   {
@@ -256,7 +256,7 @@
     "a": "dark mode = real peace 🌑"
   },
   {
-    "q": ["light mode"],
+    "q": ["light", "mode"],
     "a": "light mode dile chokh cancel 😭"
   },
   {
@@ -296,7 +296,7 @@
     "a": "bolo sis, ki news 🌸"
   },
   {
-    "q": ["jan"],
+    "q": ["jan","xan", "bou",],
     "a": "hmm jan, drama suru 😹"
   },
   {
@@ -320,7 +320,7 @@
     "a": "tor exam result 😹"
   },
   {
-    "q": ["roast"],
+    "q": ["roast", "rost"],
     "a": "roast dile fire lagbe 😌"
   },
   {
@@ -328,7 +328,7 @@
     "a": "cringe unlimited pack 😭"
   },
   {
-    "q": ["ghost"],
+    "q": ["ghost", "vhut", "vut"],
     "a": "seen diye vanish 👻"
   },
   {
@@ -336,7 +336,7 @@
     "a": "seen diye ignore master 😶"
   },
   {
-    "q": ["reply"],
+    "q": ["reply", "reply", "rply"],
     "a": "typing... tarpor ghost 😹"
   },
   {
@@ -356,15 +356,15 @@
     "a": "boi khulei ghum ashe 😴"
   },
   {
-    "q": ["school"],
+    "q": ["school", "scl"],
     "a": "school life = golden memory 😌"
   },
   {
-    "q": ["college"],
+    "q": ["college", "clg"],
     "a": "attendance kom, tension beshi 😭"
   },
   {
-    "q": ["university"],
+    "q": ["university", "versity",],
     "a": "assignment never ending 😵"
   },
   {
@@ -372,7 +372,7 @@
     "a": "job paile treat must 😹"
   },
   {
-    "q": ["rich"],
+    "q": ["rich", "dhoni", "dhon", "boro luk"],
     "a": "taka thakle sobai close 😶"
   },
   {
@@ -400,7 +400,7 @@
     "a": "happy thak, eta premium feeling 😊"
   },
   {
-    "q": ["ghum", "ঘুম পাচ্ছে"],
+    "q": ["ghum", "ঘুম"],
     "a": "ghum lagle phone rekhe ghum de 😴"
   },
   {
@@ -408,11 +408,11 @@
     "a": "khida lagse? fridge raid de 😹"
   },
   {
-    "q": ["bored"],
+    "q": ["bored", "bore"],
     "a": "bored hole reel dekh, time vanish 😹"
   },
   {
-    "q": ["lonely"],
+    "q": ["lonely", "eka", "ekla" ],
     "a": "lonely hole nijer sathe chill kor 😌"
   },
   {
@@ -420,11 +420,11 @@
     "a": "attitude na boss, self respect 😎"
   },
   {
-    "q": ["fake friend"],
+    "q": ["fake"],
     "a": "fake friend = free pain 😭"
   },
   {
-    "q": ["real friend"],
+    "q": ["real"],
     "a": "real friend rare item 😌"
   },
   {
@@ -432,15 +432,15 @@
     "a": "cheater er jonno karma ready 😏"
   },
   {
-    "q": ["breakup"],
+    "q": ["breakup", "brkup"],
     "a": "breakup hoise? gym join kor 😹"
   },
   {
-    "q": ["relationship"],
+    "q": ["relationship", "rls"],
     "a": "relationship = trust + patience 😌"
   },
   {
-    "q": ["single life"],
+    "q": ["single"],
     "a": "single life peaceful but boring 😹"
   },
   {
@@ -516,19 +516,19 @@
     "a": "fuel price dekhe heart attack 😭"
   },
   {
-    "q": ["money problem"],
+    "q": ["money", "problem"],
     "a": "sob problem er root money 😶"
   },
   {
-    "q": ["amr ke chino", "আমারে চিনো"],
+    "q": ["chino", "চিনো"],
     "a": "legend ke na chine 😎"
   },
   {
-    "q": ["amar nam ki", "আমার নাম কি"],
-    "a": "google na ami 😹"
+    "q": ["name","nam", "নাম"],
+    "a": "amar name tessa robot 😹"
   },
   {
-    "q": ["tor nam ki", "তোর নাম কি"],
+    "q": ["beda", "chele"],
     "a": "name jante hobe naki CV banabi 😹"
   },
   {
