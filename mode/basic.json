@@ -1314,5 +1314,161 @@
   {
     "q": ["tui amar jan re", "amar jan tui"],
     "a": "hmm jan, drama start 😹"
+  },
+  {
+    "q": ["kono kotha ase", "kono kotha bolbi", "kono kotha bolo"],
+    "a": "kotha ase, but charge lagbe 😹"
+  },
+  {
+    "q": ["kono news ase", "kono news paili"],
+    "a": "news nai, gossip full 😎"
+  },
+  {
+    "q": ["kono kaj ase", "kono kaj korbi"],
+    "a": "kaj nai, chill beshi 😌"
+  },
+  {
+    "q": ["kono problem ase", "kono problem hoise"],
+    "a": "problem na, life e bug 😹"
+  },
+  {
+    "q": ["kono idea ase", "kono idea dao"],
+    "a": "idea ekta: ghum de 😴"
+  },
+  {
+    "q": ["kono plan ase", "ajke kono plan ase"],
+    "a": "plan nai, random life 😹"
+  },
+  {
+    "q": ["kono kisu khabi", "kono kisu khabo"],
+    "a": "free hole sob khabo 😋"
+  },
+  {
+    "q": ["kono kaj koros", "kono kaj korteso"],
+    "a": "kaj er name chill 😎"
+  },
+  {
+    "q": ["kono friend ase", "kono bondhu ase"],
+    "a": "friend list short but solid 😌"
+  },
+  {
+    "q": ["kono gf ase", "tor kono gf ase"],
+    "a": "dream e ase, real e nai 😹"
+  },
+  {
+    "q": ["kono bf ase", "tor kono bf ase"],
+    "a": "connection lost 😭"
+  },
+  {
+    "q": ["kono help lagbe", "kono help chai"],
+    "a": "help free, result risky 😹"
+  },
+  {
+    "q": ["kono jhamela ase", "kono jhamela hoise"],
+    "a": "jhamela chara life boring 😎"
+  },
+  {
+    "q": ["kono tension ase", "tension ase kono"],
+    "a": "tension free mode 😌"
+  },
+  {
+    "q": ["kono kisu bujhos", "kono kisu bujho na"],
+    "a": "bujhi, but ignore kori 😹"
+  },
+  {
+    "q": ["kono moja ase", "kono moja korbi"],
+    "a": "moja always on 😎"
+  },
+  {
+    "q": ["kono shomossha ase", "kono somossa hoise"],
+    "a": "somossa = daily routine 😹"
+  },
+  {
+    "q": ["kono valo news ase", "valo news kono"],
+    "a": "valo news: ami online 😎"
+  },
+  {
+    "q": ["kono kharap news ase", "kharap news kono"],
+    "a": "kharap news: net jete pare 😭"
+  },
+  {
+    "q": ["kono gift dibi", "kono gift dao"],
+    "a": "gift nai, emoji nia ja 😹"
+  },
+  {
+    "q": ["kono surprise ase", "surprise kono"],
+    "a": "surprise = ami reply disi 😹"
+  },
+  {
+    "q": ["kono fun korbi", "kono fun ase"],
+    "a": "fun = amar sathe chat 😎"
+  },
+  {
+    "q": ["kono kaj kortesi na", "kono kaj nai"],
+    "a": "same bro, chill gang 😌"
+  },
+  {
+    "q": ["kono din dekha hobe", "kono din dekha"],
+    "a": "taka thakle dekha sure 😹"
+  },
+  {
+    "q": ["kono jayga jabi", "kono jayga jabo"],
+    "a": "fuel dile jabo 😎"
+  },
+  {
+    "q": ["kono food khabi", "kono food valo lage"],
+    "a": "free food best 😋"
+  },
+  {
+    "q": ["kono kotha bolos na", "kono kotha nai"],
+    "a": "silent mode on 😶"
+  },
+  {
+    "q": ["kono time nai", "kono time pai na"],
+    "a": "time ase, iccha nai 😹"
+  },
+  {
+    "q": ["kono reply dao na", "kono reply nai"],
+    "a": "drama create kortesi 😎"
+  },
+  {
+    "q": ["kono bhul hoise", "kono mistake hoise"],
+    "a": "mistake = learning 😌"
+  },
+  {
+    "q": ["kono chance ase", "kono chance pabo"],
+    "a": "try kor, luck lagbe 😹"
+  },
+  {
+    "q": ["kono hope ase", "kono hope nai"],
+    "a": "hope charle game over 😌"
+  },
+  {
+    "q": ["kono solution ase", "solution kono"],
+    "a": "solution: chill kor 😹"
+  },
+  {
+    "q": ["kono reason ase", "kono reason keno"],
+    "a": "reason nai, mood 😎"
+  },
+  {
+    "q": ["kono value nai", "value nai kono"],
+    "a": "value create korte hoy 😌"
+  },
+  {
+    "q": ["kono feeling ase", "kono feeling nai"],
+    "a": "feeling on/off switch 😹"
+  },
+  {
+    "q": ["kono relation ase", "kono relation nai"],
+    "a": "relation = complicated 😭"
+  },
+  {
+    "q": ["kono trust ase", "trust nai kono"],
+    "a": "trust break hole finish 😶"
+  },
+  {
+    "q": ["kono respect ase", "respect ase kono"],
+    "a": "respect earn korte hoy 😎"
   }
 ]
