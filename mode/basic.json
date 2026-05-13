@@ -1,0 +1,762 @@
+[
+  {
+    "q": ["দে", "de", "dao", "give"],
+    "a": "dimu na sor ja"
+  },
+  {
+    "q": ["কেন", "কেনো", "ken", "keno"],
+    "a": "emniy"
+  },
+  {
+    "q": ["hi", "hello", "hey"],
+    "a": "হ্যালো 😊"
+  },
+  {
+    "q": ["bye", "good night"],
+    "a": "আল্লাহ হাফেজ 👋"
+  },
+  {
+    "q": ["thanks", "dhonnobad"],
+    "a": "স্বাগতম 😄"
+  },
+  {
+    "q": ["কি করো", "কি করছ", "what are you doing"],
+    "a": "তোর কথাই ভাবতেছি 😶"
+  },
+  {
+    "q": ["ভালোবাসো", "love me", "আমাকে ভালোবাসো"],
+    "a": "ভালোবাসা dangerous জিনিস 🙂"
+  },
+  {
+    "q": ["খাইছো", "খেয়েছ", "eat"],
+    "a": "না, তুই খাওয়াবি? 😹"
+  },
+  {
+    "q": ["bot", "বট"],
+    "a": "হুম, কিন্তু attitude আছে 😌"
+  },
+  {
+    "q": ["sad", "মন খারাপ"],
+    "a": "সব ঠিক হয়ে যাবে ইনশাআল্লাহ 🤍"
+  },
+  {
+    "q": ["crush", "ক্রাশ"],
+    "a": "ক্রাশ খাইলে পানি খা 😹"
+  },
+  {
+    "q": ["single", "সিঙ্গেল"],
+    "a": "সিঙ্গেলরাই পৃথিবী চালায় 😌"
+  },
+  {
+    "q": ["miss you", "মিস করি"],
+    "a": "আমিও একটু একটু করি 🙂"
+  },
+  {
+    "q": ["gm", "good morning"],
+    "a": "সুপ্রভাত 🌞"
+  },
+  {
+    "q": ["gn", "good night"],
+    "a": "মিষ্টি ঘুম হোক 🌙"
+  },
+  {
+    "q": ["ki obosta", "কি অবস্থা", "kemon aso"],
+    "a": "আলহামদুলিল্লাহ 😌"
+  },
+  {
+    "q": ["free acho", "ফ্রি আছো"],
+    "a": "তোর জন্য সবসময় 😹"
+  },
+  {
+    "q": ["busy", "ব্যস্ত"],
+    "a": "একটু attitude নিয়ে busy 😌"
+  },
+  {
+    "q": ["rag korso", "রাগ করছো"],
+    "a": "একটু করছি 😒"
+  },
+  {
+    "q": ["haso", "হাসো"],
+    "a": "😄😄😄"
+  },
+  {
+    "q": ["kiss", "চুমু"],
+    "a": "Astaghfirullah 😶"
+  },
+  {
+    "q": ["biye", "বিয়ে"],
+    "a": "আগে টাকা কামা 😹"
+  },
+  {
+    "q": ["money", "টাকা"],
+    "a": "টাকা ছাড়া আজকাল feelings এর দাম নাই 🙂"
+  },
+  {
+    "q": ["friend", "বন্ধু"],
+    "a": "ভালো বন্ধু পাওয়া ভাগ্যের ব্যাপার 🤍"
+  },
+  {
+    "q": ["gf", "boyfriend", "bf"],
+    "a": "Relationship e battery low 😹"
+  },
+  {
+    "q": ["sleep", "ঘুম"],
+    "a": "ঘুমাইতে দে ভাই 😴"
+  },
+  {
+    "q": ["joss", "জোস"],
+    "a": "একদম আগুন 🔥"
+  },
+  {
+    "q": ["cool", "ঠান্ডা"],
+    "a": "আমি তো বরফ 😌"
+  },
+  {
+    "q": ["hot", "গরম"],
+    "a": "ফ্যান চালা 😹"
+  },
+  {
+    "q": ["exam", "পরীক্ষা"],
+    "a": "পড়ালেখা কর নাহলে future dark 😶"
+  },
+  {
+    "q": ["result", "রেজাল্ট"],
+    "a": "পাস করলে ট্রিট চাই 😹"
+  },
+  {
+    "q": ["fail", "ফেল"],
+    "a": "জীবন এখানেই শেষ না 🙂"
+  },
+  {
+    "q": ["tired", "ক্লান্ত"],
+    "a": "একটু রেস্ট নে 🤍"
+  },
+  {
+    "q": ["angry", "রেগে আছি"],
+    "a": "রাগ কমা, pressure বাড়ে 😹"
+  },
+  {
+    "q": ["love", "ভালোবাসা"],
+    "a": "ভালোবাসা সুন্দর, কিন্তু painful 😶"
+  },
+  {
+    "q": ["fake", "মিথ্যা"],
+    "a": "সবাই real না 🙂"
+  },
+  {
+    "q": ["trust", "বিশ্বাস"],
+    "a": "বিশ্বাস ভাঙলে শব্দ হয় না, ব্যথা হয় 😔"
+  },
+  {
+    "q": ["alone", "একলা"],
+    "a": "একলা থাকতেও শান্তি আছে 🙂"
+  },
+  {
+    "q": ["music", "গান"],
+    "a": "গানেই অনেক feelings লুকানো থাকে 🎧"
+  },
+  {
+    "q": ["movie", "সিনেমা"],
+    "a": "Action নাকি romantic? 😹"
+  },
+  {
+    "q": ["ping"],
+    "a": "pong 🏓"
+  },
+  {
+    "q": ["admin"],
+    "a": "admin এখন busy 😹"
+  },
+  {
+    "q": ["owner", "মালিক"],
+    "a": "owner কে ডাকিস না, ঘুমায় 😴"
+  },
+  {
+    "q": ["hack", "হ্যাক"],
+    "a": "FBI watching you 👀"
+  },
+  {
+    "q": ["virus"],
+    "a": "আমার কাছে antivirus feelings আছে 😌"
+  },
+  {
+    "q": ["facebook", "fb"],
+    "a": "Facebook এ drama বেশি 😹"
+  },
+  {
+    "q": ["instagram", "ig"],
+    "a": "সবাই influencer 😌"
+  },
+  {
+    "q": ["youtube"],
+    "a": "skip ad করতে ভুলিস না 😹"
+  },
+  {
+    "q": ["tiktok"],
+    "a": "আরেকটা scroll মানেই ২ ঘন্টা শেষ 😭"
+  },
+  {
+    "q": ["game", "gaming"],
+    "a": "pro player detected 🎮"
+  },
+  {
+    "q": ["pubg"],
+    "a": "enemy ahead 😹"
+  },
+  {
+    "q": ["free fire", "ff"],
+    "a": "Booyah 😌"
+  },
+  {
+    "q": ["code", "coding"],
+    "a": "bug fix করতে করতে জীবন শেষ 😭"
+  },
+  {
+    "q": ["bug"],
+    "a": "এটা feature 😹"
+  },
+  {
+    "q": ["developer", "dev"],
+    "a": "developer রা রাতে বেশি active 🌙"
+  },
+  {
+    "q": ["wifi", "internet"],
+    "a": "নেট গেলে জীবন থেমে যায় 😭"
+  },
+  {
+    "q": ["battery"],
+    "a": "battery low, mood low 😶"
+  },
+  {
+    "q": ["charger"],
+    "a": "charger ছাড়া সম্পর্কও টিকে না 😹"
+  },
+  {
+    "q": ["update"],
+    "a": "new update available 🚀"
+  },
+  {
+    "q": ["error"],
+    "a": "error 404: happiness not found 😭"
+  },
+  {
+    "q": ["system"],
+    "a": "system hang হয়ে গেছে 😵"
+  },
+  {
+    "q": ["ai"],
+    "a": "AI একদিন পৃথিবী দখল করবে 😶"
+  },
+  {
+    "q": ["robot"],
+    "a": "beep bop 🤖"
+  },
+  {
+    "q": ["dark"],
+    "a": "dark mode = peace 🌑"
+  },
+  {
+    "q": ["light mode"],
+    "a": "চোখ বাঁচা ভাই 😭"
+  },
+  {
+    "q": ["mood off"],
+    "a": "চা খা, mood ঠিক হবে ☕"
+  },
+  {
+    "q": ["coffee"],
+    "a": "developer juice ☕"
+  },
+  {
+    "q": ["tea", "চা"],
+    "a": "এক কাপ চা মানেই শান্তি 🤍"
+  },
+  {
+    "q": ["rain", "বৃষ্টি"],
+    "a": "বৃষ্টি আর memories একসাথে আসে 🌧️"
+  },
+  {
+    "q": ["winter", "শীত"],
+    "a": "কম্বলের নিচে থাকাই best 😴"
+  },
+  {
+    "q": ["vai", "ভাই"],
+    "a": "কি খবর ভাই 😌"
+  },
+  {
+    "q": ["apu", "আপু"],
+    "a": "জি আপু 😊"
+  },
+  {
+    "q": ["bro"],
+    "a": "yes bro 😎"
+  },
+  {
+    "q": ["sis"],
+    "a": "bolo sis 🌸"
+  },
+  {
+    "q": ["jan"],
+    "a": "হুম জান 😹"
+  },
+  {
+    "q": ["cute"],
+    "a": "তুইও কম না 😌"
+  },
+  {
+    "q": ["smart"],
+    "a": "জানি 😎"
+  },
+  {
+    "q": ["ugly"],
+    "a": "mirror check কর 😹"
+  },
+  {
+    "q": ["meme"],
+    "a": "life টাই meme 😭"
+  },
+  {
+    "q": ["joke"],
+    "a": "তোর report card 😹"
+  },
+  {
+    "q": ["roast"],
+    "a": "roast দিলে কইন্দা দিবি পরে 😌"
+  },
+  {
+    "q": ["cringe"],
+    "a": "internet এ cringe unlimited 😭"
+  },
+  {
+    "q": ["ghost"],
+    "a": "seen zone এ হারাইছে 👻"
+  },
+  {
+    "q": ["seen"],
+    "a": "seen দিলেই reply দিতে হয় না 😶"
+  },
+  {
+    "q": ["reply"],
+    "a": "typing... তারপর আর কিছু না 😹"
+  },
+  {
+    "q": ["typing"],
+    "a": "ভেবে reply দিচ্ছি 😌"
+  },
+  {
+    "q": ["online"],
+    "a": "online আছি কিন্তু mentally offline 😭"
+  },
+  {
+    "q": ["offline"],
+    "a": "offline এ শান্তি বেশি 🙂"
+  },
+  {
+    "q": ["study"],
+    "a": "পড়তে বসলে ঘুম আসে 😴"
+  },
+  {
+    "q": ["school"],
+    "a": "school life best life 😌"
+  },
+  {
+    "q": ["college"],
+    "a": "attendance কম, tension বেশি 😭"
+  },
+  {
+    "q": ["university"],
+    "a": "assignment never ends 😵"
+  },
+  {
+    "q": ["job"],
+    "a": "job পাইলে treat দিবি 😹"
+  },
+  {
+    "q": ["rich"],
+    "a": "টাকা থাকলে সবাই close 😶"
+  },
+  {
+    "q": ["poor"],
+    "a": "মন বড় হলেই মানুষ বড় 🤍"
+  },
+  {
+    "q": ["success"],
+    "a": "ধৈর্য রাখ, সময় আসবে 💪"
+  },
+  {
+    "q": ["failure"],
+    "a": "failure মানেই শেষ না 🙂"
+  },
+  {
+    "q": ["motivation"],
+    "a": "নিজেকেই motivate করতে হয় 😌"
+  },
+  {
+    "q": ["depression"],
+    "a": "সময় বদলাবে ইনশাআল্লাহ 🤍"
+  },
+  {
+    "q": ["happy"],
+    "a": "খুশি থাক, এটাই বড় জিনিস 😊"
+  },
+  {
+    "q": ["ghum", "ঘুম পাচ্ছে"],
+    "a": "ঘুমা তাহলে 😴"
+  },
+  {
+    "q": ["khida", "ক্ষুধা", "hungry"],
+    "a": "খাইতে যা 😹"
+  },
+  {
+    "q": ["bored"],
+    "a": "life এ excitement দরকার 😶"
+  },
+  {
+    "q": ["lonely"],
+    "a": "একলা মানুষ বেশি strong 🙂"
+  },
+  {
+    "q": ["attitude"],
+    "a": "attitude না, self respect 😌"
+  },
+  {
+    "q": ["fake friend"],
+    "a": "সবাই পাশে থাকে না 😶"
+  },
+  {
+    "q": ["real friend"],
+    "a": "real friend rare 🤍"
+  },
+  {
+    "q": ["cheater"],
+    "a": "karma অপেক্ষা করছে 😌"
+  },
+  {
+    "q": ["breakup"],
+    "a": "move on king 👑"
+  },
+  {
+    "q": ["relationship"],
+    "a": "trust ছাড়া কিছুই না 🙂"
+  },
+  {
+    "q": ["single life"],
+    "a": "peaceful but boring 😹"
+  },
+  {
+    "q": ["married"],
+    "a": "responsibility unlocked 😭"
+  },
+  {
+    "q": ["wife"],
+    "a": "wife মানেই fear 😹"
+  },
+  {
+    "q": ["husband"],
+    "a": "husband always confused 😭"
+  },
+  {
+    "q": ["baby"],
+    "a": "cute little trouble 😹"
+  },
+  {
+    "q": ["cat"],
+    "a": "meow 🐱"
+  },
+  {
+    "q": ["dog"],
+    "a": "woof 🐶"
+  },
+  {
+    "q": ["bird"],
+    "a": "fly high 🕊️"
+  },
+  {
+    "q": ["lion"],
+    "a": "king of jungle 👑"
+  },
+  {
+    "q": ["snake"],
+    "a": "silent but dangerous 🐍"
+  },
+  {
+    "q": ["fire"],
+    "a": "too hot to handle 🔥"
+  },
+  {
+    "q": ["water"],
+    "a": "stay hydrated 💧"
+  },
+  {
+    "q": ["moon"],
+    "a": "চাঁদও একা থাকে 🌙"
+  },
+  {
+    "q": ["sun"],
+    "a": "shine like sun ☀️"
+  },
+  {
+    "q": ["star"],
+    "a": "তুইও একটা star 😌"
+  },
+  {
+    "q": ["sky"],
+    "a": "sky has no limit 🌌"
+  },
+  {
+    "q": ["travel"],
+    "a": "ঘুরতে গেলে mind fresh হয় ✈️"
+  },
+  {
+    "q": ["bike"],
+    "a": "ride safe 🏍️"
+  },
+  {
+    "q": ["car"],
+    "a": "fuel price দেখে কান্না আসে 😭"
+  },
+  {
+    "q": ["money problem"],
+    "a": "সব problem এর root 😶"
+  },
+  {
+    "q": ["amr ke chino", "আমারে চিনো"],
+    "a": "legend দের কে না চিনে 😌"
+  },
+  {
+    "q": ["amar nam ki", "আমার নাম কি"],
+    "a": "mind reader না আমি 😹"
+  },
+  {
+    "q": ["tor nam ki", "তোর নাম কি"],
+    "a": "নাম জেনে কি হবে 😌"
+  },
+  {
+    "q": ["pagol", "পাগল"],
+    "a": "একটু 😹"
+  },
+  {
+    "q": ["matha noshto"],
+    "a": "same situation 😭"
+  },
+  {
+    "q": ["ghurte jabi"],
+    "a": "টাকা থাকলে যাই 😹"
+  },
+  {
+    "q": ["ice cream"],
+    "a": "share করলে খাব 🍦"
+  },
+  {
+    "q": ["burger"],
+    "a": "extra cheese চাই 😌"
+  },
+  {
+    "q": ["pizza"],
+    "a": "last slice নিয়ে যুদ্ধ লাগে 😭"
+  },
+  {
+    "q": ["chicken"],
+    "a": "kfc mood 🍗"
+  },
+  {
+    "q": ["cold drink"],
+    "a": "ঠান্ডা ঠান্ডা 😌"
+  },
+  {
+    "q": ["dance"],
+    "a": "dance করতে গেলে floor কাঁপে 😹"
+  },
+  {
+    "q": ["sing"],
+    "a": "গান শুনে প্রতিবেশী পালাবে 😭"
+  },
+  {
+    "q": ["photo"],
+    "a": "camera shy 😶"
+  },
+  {
+    "q": ["selfie"],
+    "a": "angle ঠিক থাকলে সব সুন্দর 😌"
+  },
+  {
+    "q": ["status"],
+    "a": "status দিয়েই feelings বুঝায় 😶"
+  },
+  {
+    "q": ["story"],
+    "a": "story দেখে judge করিস না 😹"
+  },
+  {
+    "q": ["mood"],
+    "a": "mood swings premium version 😭"
+  },
+  {
+    "q": ["silent"],
+    "a": "নীরবতারও শব্দ আছে 🙂"
+  },
+  {
+    "q": ["trust issue"],
+    "a": "একবার ভাঙলে জোড়া লাগে না 😶"
+  },
+  {
+    "q": ["heart"],
+    "a": "handle with care ❤️"
+  },
+  {
+    "q": ["life"],
+    "a": "life unpredictable 😌"
+  },
+  {
+    "q": ["future"],
+    "a": "future এর জন্য grind কর 💪"
+  },
+  {
+    "q": ["past"],
+    "a": "past মনে রাখলে pain বাড়ে 😶"
+  },
+  {
+    "q": ["dream"],
+    "a": "dream বড় রাখ 😌"
+  },
+  {
+    "q": ["reality"],
+    "a": "reality অনেক hard 😭"
+  },
+  {
+    "q": ["luck"],
+    "a": "luck + hard work = success 💯"
+  },
+  {
+    "q": ["power"],
+    "a": "power মানুষ বদলায় 😶"
+  },
+  {
+    "q": ["king"],
+    "a": "respect king 👑"
+  },
+  {
+    "q": ["queen"],
+    "a": "slay queen 👑"
+  },
+  {
+    "q": ["mon kharap", "মন খারাপ"],
+    "a": "সময় সব ঠিক করে দেয় 🙂"
+  },
+  {
+    "q": ["kosto", "কষ্ট"],
+    "a": "সব হাসির পিছনেও কষ্ট থাকে 😶"
+  },
+  {
+    "q": ["cry", "কান্না"],
+    "a": "কখনো কখনো কান্নাও দরকার 😔"
+  },
+  {
+    "q": ["smile"],
+    "a": "হাসি সুন্দর জিনিস 😊"
+  },
+  {
+    "q": ["cute lagse"],
+    "a": "চোখের দোষ 😹"
+  },
+  {
+    "q": ["miss korbo"],
+    "a": "আমারে ভুলে যাইস না 😶"
+  },
+  {
+    "q": ["wait"],
+    "a": "ভালো জিনিস পেতে অপেক্ষা লাগে 😌"
+  },
+  {
+    "q": ["late reply"],
+    "a": "reply দিতে দিতে জীবন শেষ 😭"
+  },
+  {
+    "q": ["block"],
+    "a": "block মানেই chapter close 😶"
+  },
+  {
+    "q": ["unblock"],
+    "a": "feelings ফিরে আসছে নাকি 😹"
+  },
+  {
+    "q": ["ignore"],
+    "a": "ignore সবচেয়ে painful 😔"
+  },
+  {
+    "q": ["respect"],
+    "a": "respect earn করতে হয় 😌"
+  },
+  {
+    "q": ["ego"],
+    "a": "ego অনেক কিছু নষ্ট করে 😶"
+  },
+  {
+    "q": ["sorry"],
+    "a": "ক্ষমা সুন্দর জিনিস 🤍"
+  },
+  {
+    "q": ["forgive"],
+    "a": "ভুল সবাই করে 🙂"
+  },
+  {
+    "q": ["revenge"],
+    "a": "silent success best revenge 😌"
+  },
+  {
+    "q": ["powerful"],
+    "a": "নিজেকে control করাই power 💯"
+  },
+  {
+    "q": ["weak"],
+    "a": "weak সময়ই মানুষ শেখায় 😶"
+  },
+  {
+    "q": ["motivate me"],
+    "a": "আজ কষ্ট কর, কাল shine কর ✨"
+  },
+  {
+    "q": ["lazy"],
+    "a": "lazy mode activated 😴"
+  },
+  {
+    "q": ["hard work"],
+    "a": "hard work never betrays 💪"
+  },
+  {
+    "q": ["success story"],
+    "a": "সব success এর পিছনে struggle থাকে 🙂"
+  },
+  {
+    "q": ["night"],
+    "a": "রাত মানুষকে বেশি ভাবায় 🌙"
+  },
+  {
+    "q": ["morning"],
+    "a": "নতুন সকাল, নতুন শুরু ☀️"
+  },
+  {
+    "q": ["rainy day"],
+    "a": "বৃষ্টি মানেই old memories 🌧️"
+  },
+  {
+    "q": ["storm"],
+    "a": "ঝড়ের পরেই শান্তি আসে 🙂"
+  },
+  {
+    "q": ["darkness"],
+    "a": "অন্ধকার ছাড়া আলো বোঝা যায় না 🌑"
+  },
+  {
+    "q": ["light"],
+    "a": "নিজেই নিজের আলো হও ✨"
+  },
+  {
+    "q": ["legend"],
+    "a": "legend never dies 😌"
+  },
+  {
+    "q": ["good luck"],
+    "a": "best of luck 🍀"
+  }
+]
