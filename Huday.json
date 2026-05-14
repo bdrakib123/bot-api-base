@@ -1,4 +1,4 @@
-const backgrounds = [
+ [
 
         // ===== 1 =====
         {
@@ -70,4 +70,4 @@ const backgrounds = [
           pos: [
             { x: 120, y: 170, size: 300 },
             { x: null, y: 170, size: 300 }
-          ]
+        
