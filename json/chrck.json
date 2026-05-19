@@ -138,83 +138,57 @@
   { "q": ["pani"], "a": "pani kha, brain cool 😌" },
   { "q": ["cha"], "a": "cha dile life set ☕" },
   { "q": ["coffee"], "a": "coffee = energy boost 😎" },
-
   { "q": ["net"], "a": "net slow = life slow 😭" },
   { "q": ["wifi"], "a": "wifi chara existence nai 😹" },
   { "q": ["data"], "a": "data sesh = life sesh 😭" },
-
   { "q": ["phone"], "a": "phone chara panic 😹" },
   { "q": ["mobile"], "a": "mobile e sob life 😏" },
   { "q": ["screen"], "a": "screen time unlimited 😹" },
-
   { "q": ["chat"], "a": "chat e feelings beshi 😶" },
   { "q": ["msg"], "a": "msg seen kore ghost 😹" },
   { "q": ["call"], "a": "call dile awkward 😏" },
-
   { "q": ["seen"], "a": "seen = ignore expert 😹" },
   { "q": ["typing"], "a": "typing mane suspense 😏" },
-
   { "q": ["online"], "a": "online but brain afk 😹" },
   { "q": ["afk"], "a": "afk bole vanish 😏" },
-
   { "q": ["level"], "a": "level up hoite thak 😎" },
   { "q": ["rank"], "a": "rank chara respect nai 😏" },
-
   { "q": ["fight"], "a": "fight hole drama free 😹" },
   { "q": ["war"], "a": "war start, peace end 😏" },
-
   { "q": ["rofl"], "a": "rofl mane floor e ghoraghuri 😹" },
   { "q": ["lmao"], "a": "lmao = fake hasi 😏" },
-
   { "q": ["beizzati"], "a": "beizzati unlimited 😹" },
   { "q": ["respect"], "a": "respect earn korte hoy 😌" },
-
   { "q": ["jal"], "a": "jal khabi? thirst level high 😹" },
   { "q": ["bhaiya"], "a": "bhaiya bolle taka dite hoy 😹" },
-
   { "q": ["pola"], "a": "pola full dangerous 😏" },
   { "q": ["maiyaa"], "a": "maiyaa mane crush alert 😹" },
-
   { "q": ["bujh"], "a": "bujh nai, guess kortesi 😹" },
   { "q": ["jani"], "a": "jani bole sob jane na 😏" },
-
   { "q": ["thak"], "a": "thak bole ignore 😹" },
   { "q": ["chol"], "a": "chol adventure 😎" },
-
   { "q": ["ja"], "a": "ja mane go away 😏" },
   { "q": ["aash"], "a": "aash bole call korteso 😹" },
-
   { "q": ["thamo"], "a": "thamo keu shone na 😹" },
   { "q": ["dara"], "a": "dara bolle keu darae na 😏" },
-
   { "q": ["matha"], "a": "matha noshto confirmed 😹" },
   { "q": ["brain"], "a": "brain loading... 😏" },
-
   { "q": ["idea"], "a": "idea ase, kaaj nai 😹" },
   { "q": ["plan"], "a": "plan always fail 😏" },
-
   { "q": ["goal"], "a": "goal set, kaaj zero 😹" },
   { "q": ["target"], "a": "target miss guaranteed 😏" },
-
   { "q": ["future"], "a": "future blur 😹" },
   { "q": ["present"], "a": "present enjoy kor 😌" },
-
   { "q": ["past"], "a": "past = cringe memory 😹" },
-
   { "q": ["dream"], "a": "dream big, kaaj small 😏" },
-
   { "q": ["hope"], "a": "hope e life cholse 😌" },
   { "q": ["fear"], "a": "fear = imagination 😏" },
-
   { "q": ["dark"], "a": "dark mode best 🌑" },
   { "q": ["light"], "a": "light mode pain 😭" },
-
   { "q": ["rain"], "a": "rain = sad vibes 😹" },
   { "q": ["sun"], "a": "sun = energy 😎" },
-
   { "q": ["wind"], "a": "wind e chul noshto 😹" },
   { "q": ["dust"], "a": "dust everywhere 😭" },
-
   { "q": ["fasting"], "a": "fasting e sabar test 😌" },
   { "q": ["iftar"], "a": "iftar time best 😋" },
   { "q": ["কি করো"], "a": "ki koro jiggesh koros, kintu nijer ki koros seta jano? 😹 self check first boss" },
@@ -222,395 +196,251 @@
   { "q": ["ki koros"], "a": "tor kotha vabchi boli dile emotional hoye jabi, tai boli na 😏" },
   { "q": ["ki koren"], "a": "formal hoye gelo suddenly 😹 ami sir naki?" },
   { "q": ["ki koro"], "a": "life e kichu productive korte chai, kintu tor msg e distract hoye jai 😭" },
-
   { "q": ["ভালোবাসো"], "a": "valobasa chai? age nijeke tolerate korte shikh 😹 tarpor asho" },
   { "q": ["love me"], "a": "love me bollei hoy na boss, subscription lagbe 😏 monthly charge high" },
   { "q": ["valobaso"], "a": "valobasi kina jani na, kintu ignore korte pari na… eta aro dangerous 😭" },
   { "q": ["আমাকে ভালোবাসো"], "a": "nijeke love korte paro? age oita shikho, ami pore ashbo 😏" },
-
   { "q": ["খাইছো"], "a": "khai nai, karon keu treat dey na 😭 sobai sudhu kotha dei" },
   { "q": ["khaico"], "a": "khaico jiggesh koros, kintu invite koros na 😹 fake concern detected" },
   { "q": ["খেয়েছ"], "a": "khawa sesh, kintu tor msg e abar khida lagse 😏 attention hungry naki?" },
   { "q": ["eat"], "a": "eat eat bolos, kintu bill dibe ke? 😭 amar pocket silent mode e" },
-
   { "q": ["bot"], "a": "bot hoileo swag full 😎 tui to manual mode eo hang hoye jao" },
   { "q": ["বট"], "a": "bot bolle insult naki compliment bujhi na 😹 kintu ami still smart" },
   { "q": ["sad"], "a": "sad lagle drama baray na boss, chocolate kha ar nijeke VIP treat de 😹 life eto serious na" },
   { "q": ["মন খারাপ"], "a": "mon kharap hole sobai philosopher hoye jay 😭 kintu solution zero, chill kor ektu" },
-
   { "q": ["crush"], "a": "crush khaile pani na, courage lagbe 😹 giye kotha bol, seen kheye back ashbi" },
   { "q": ["ক্রাশ"], "a": "crush mane free tension 😭 reply pabi na, kintu wait korte thakbi" },
-
   { "q": ["single"], "a": "single life premium 😎 kono jhamela nai, kintu raat e overthinking unlimited 😭" },
   { "q": ["সিঙ্গেল"], "a": "single bole cool feel koro, kintu secretly lonely 😏 dhora khaiso boss" },
-
   { "q": ["miss you"], "a": "miss you bolle sobai emotional hoye jay 😹 kintu 2 min por abar ghost" },
   { "q": ["miss"], "a": "miss korte thako, kintu msg dite gele ego dhore 😏 classic case" },
   { "q": ["মিস করি"], "a": "miss kori bole dile value bare 😌 kintu beshi bolle cheap hoye jabe careful" },
-
   { "q": ["gm"], "a": "gm bole duty sesh? good morning er sathe ek cup cha dile valo hoto 😹☕" },
   { "q": ["good morning"], "a": "good morning boss ☀️ uthso naki ekhono bed e scroll korteso?" },
-
   { "q": ["gn"], "a": "gn bole offline jao na, jani tui aro 1 ghonta online thakbi 😹" },
   { "q": ["good night"], "a": "good night bole phone charo, naile sleep schedule RIP 😴📱" },
-
   { "q": ["obosta"], "a": "obosta jiggesh koros, kintu nijer obosta dekho age 😹 same struggle sobar" },
   { "q": ["অবস্থা"], "a": "obosta bolte gele life ekdom beta version 😭 bug e vora" },
   { "q": ["kemon aso"], "a": "kemon asi jiggesh koros, ami bachi somehow 😌 survival mode on" },
-
   { "q": ["free"], "a": "free bole keu thake na boss 😏 sobai busy acting kore importance pawar jonno" },
   { "q": ["ফ্রি"], "a": "free ase bolle use korbe sobai 😹 tai boli busy, respect baray" },
-
   { "q": ["busy"], "a": "busy na, important hoye ghurtasi 😎 difference bujhte paro?" },
   { "q": ["ব্যস্ত"], "a": "basto holeo reply dite time lage 1 sec 😏 kintu ichcha thakte hoy" },
   { "q": ["rag"], "a": "rag kore ki pabi? nijer mood noshto, onno ke free entertainment 😹 control korte shikh boss" },
   { "q": ["রাগ"], "a": "rag dhore rakle pressure cooker hoye jabi 😭 ekdin blast korbi sure" },
-
   { "q": ["haso"], "a": "haste bolos? free te smile service cholse 😄 kintu beshi hasle pagol dhore nibe 😹" },
   { "q": ["হাসো"], "a": "haso haso bole nijer joke e hasos naki? 😏 confidence level high" },
-
   { "q": ["kiss"], "a": "kiss chai? astaghfirullah 😭 control bro, eta public server" },
   { "q": ["চুমু"], "a": "chumu er age permission lagbe 😏 nahole direct block list e jabi" },
-
   { "q": ["biye"], "a": "biye korar age income fix kor 😹 nahole monthly update e jhogra pabi" },
   { "q": ["biya"], "a": "biya mane responsibility unlocked 😭 game ta easy na boss" },
   { "q": ["বিয়ে"], "a": "biye korte sobai ready, kintu maintain korte keu ready na 😏 reality check" },
-
   { "q": ["money"], "a": "money nai bolei sob problem 😭 thakle sobai friend hoye jeto" },
   { "q": ["টাকা"], "a": "taka hole respect free te ashe 😏 na hole ignore mode on" },
-
   { "q": ["friend"], "a": "friend bole sobai ase, kintu real friend khujte gele 404 error 😹" },
   { "q": ["বন্ধু"], "a": "bondhu pawa easy, trust kora risky 😶 sobai same na boss" },
-
   { "q": ["gf"], "a": "gf thakle tension, na thakle loneliness 😭 kono stable version nai" },
   { "q": ["boyfriend"], "a": "boyfriend hole password dite hoy 😹 privacy RIP" },
   { "q": ["bf"], "a": "bf mane full time duty 😏 free time bole kichu thakbe na" },
-
   { "q": ["sleep"], "a": "sleep best solution 😴 sob problem temporary vanish hoy" },
   { "q": ["ঘুম"], "a": "ghum dilei life reset hoy 😌 kintu uthle abar same problem 😹" },
-
   { "q": ["joss"], "a": "joss bolos? eta joss na boss, pura fire 🔥 level" },
   { "q": ["জোস"], "a": "joss feel korte chaile life e excitement lagbe 😏 sudhu scroll e hobe na" },
-
   { "q": ["cool"], "a": "cool hoite gele ice cream na, brain thanda lagbe 😎" },
   { "q": ["ঠান্ডা"], "a": "thanda matha = best decision 😌 gorom matha = regret" },
-
   { "q": ["hot"], "a": "hot lagle fan on kor 😹 naile roast hoye jabi live" },
   { "q": ["গরম"], "a": "gorom e mood off automatic 😭 Bangladesh special edition" },
   { "q": ["exam"], "a": "exam ashle sobai scholar hoye jay 😹 sara bochor chill, last night e NASA level pora" },
   { "q": ["পরীক্ষা"], "a": "porikkha mane stress unlimited 😭 question dekhei brain restart chai" },
-
   { "q": ["result"], "a": "result er age sobai dua kore, pore excuse ready rakhe 😹 classic move" },
   { "q": ["রেজাল্ট"], "a": "result valo hole post, kharap hole ghost 😭 social media rule" },
-
   { "q": ["fail"], "a": "fail hoileo life sesh na boss 😌 kintu same mistake repeat korle problem" },
   { "q": ["ফেল"], "a": "fail mane retry option 😏 kintu tor try kothay?" },
-
   { "q": ["tired"], "a": "tired bolos kintu kaaj koto koros seta jano? 😹 overthinking e tired hoye geso" },
   { "q": ["klanto"], "a": "klanto na boss, motivation low 😭 ektu push dilei thik" },
   { "q": ["ক্লান্ত"], "a": "klanto hole rest nao 😌 naile system crash hobe" },
-
   { "q": ["angry"], "a": "angry hole decision wrong hoy 😏 rage e logic thake na" },
   { "q": ["rege achi"], "a": "rege aso? chocolate dao, sob thik 😹 simple solution" },
   { "q": ["রেগে আছি"], "a": "rag kore thakle nijer e loss 😭 keu seriously ney na" },
-
   { "q": ["love"], "a": "love sweet kintu bill beshi 😭 emotionally bankrupt hoye jabi" },
   { "q": ["ভালোবাসা"], "a": "valobasa easy na boss 😏 maintain korte patience lagbe" },
-
   { "q": ["fake"], "a": "fake manus everywhere 😶 original pawa rare item" },
   { "q": ["মিথ্যা"], "a": "mithya beshi din thake na 😏 ekdin expose hobei" },
-
   { "q": ["trust"], "a": "trust ekbar gele back ase na 😔 careful thak boss" },
   { "q": ["বিশ্বাস"], "a": "biswas earn korte time lage, noshto korte 1 sec 😹" },
-
   { "q": ["alone"], "a": "alone but peaceful 😌 drama nai, tension kom" },
   { "q": ["একলা"], "a": "ekla thaka kharap na 😏 kintu beshi hole lonely feel ashe" },
-
   { "q": ["music"], "a": "music e sob pain hide thake 🎧 sad hole playlist change hoy na" },
   { "q": ["গান"], "a": "gan holo free therapy 😌 mood instantly change kore" },
-
   { "q": ["movie"], "a": "movie dekhi naki nijer life er drama dekhi 😹 confusion always" },
   { "q": ["সিনেমা"], "a": "cinema te sob perfect lage 😏 real life e sob ulta" },
   { "q": ["ping"], "a": "ping diye test korteso naki? network stable, kintu tor brain connection weak 😹" },
-
   { "q": ["admin"], "a": "admin ghost mode e ase 😹 problem holei vanish, solution dilei legend" },
-
   { "q": ["owner"], "a": "owner disturb korish na 😴 ghum theke uthle mood off hoye jabe" },
   { "q": ["মালিক"], "a": "malik mane boss level 😏 disturb korle direct ignore" },
-
   { "q": ["hack"], "a": "hack korte ashso? FBI already typing bro 👀 keyboard e light joltese" },
   { "q": ["হ্যাক"], "a": "hack bolle hacker hoye jaoa jay na 😹 password mone rakha age shikho" },
-
   { "q": ["virus"], "a": "virus na boss, ami feelings install kori 😹 uninstall option nai" },
-
   { "q": ["facebook"], "a": "facebook = drama + stalk combo 😹 sobai FBI hoye jay ekhane" },
   { "q": ["fb"], "a": "fb khule 5 min bole, 2 ghonta vanish 😭 time machine naki?" },
-
   { "q": ["instagram"], "a": "instagram e sobai influencer 😏 real life e sobai confused" },
   { "q": ["ig"], "a": "ig story diye attention chai, kintu reply dile seen 😹 classic move" },
-
   { "q": ["youtube"], "a": "youtube e 1 video diye start, 20 video diye end 😭 algorithm trap" },
   { "q": ["yt"], "a": "yt holo black hole 😹 dhukle ber howa mushkil" },
-
   { "q": ["tiktok"], "a": "1 scroll = 2 ghonta loss 😭 productivity RIP boss" },
-
   { "q": ["game"], "a": "game e pro feel, kintu real life e noob 😹 balance zero" },
   { "q": ["gaming"], "a": "gaming korle skill bare 😏 kintu exam e use korte parbi na" },
-
   { "q": ["pubg"], "a": "enemy ahead, ar tui already dead 😭 reaction time slow" },
-
   { "q": ["freefire"], "a": "booyah bolte bolte game sesh 😹 enemy chupchap kaaj sesh kore" },
   { "q": ["free fire"], "a": "free fire e hero feel, kintu lobby te beshi time 😏" },
   { "q": ["ff"], "a": "ff player detected 😹 aim thik holei legend" },
-
   { "q": ["code"], "a": "code korte bosle bug free te ashe 😭 offer unlimited" },
   { "q": ["coding"], "a": "coding mane brain torture 😹 kintu result e satisfaction" },
-
   { "q": ["bug"], "a": "bug na boss, eta hidden feature 😌 developer excuse ready" },
   { "q": ["developer"], "a": "developer mane raat jaga prani 🌙 coffee + bug = daily routine 😹" },
   { "q": ["dev"], "a": "dev bollei smart hoya jay na 😏 bug fix korte parlei real respect" },
-
   { "q": ["wifi"], "a": "wifi na thakle life buffering 😭 ekdom useless feel hoy" },
   { "q": ["internet"], "a": "internet off = brain on 😹 but keu try kore na" },
-
   { "q": ["battery"], "a": "battery low hole panic mode on 😶 charger chara life risky" },
-
   { "q": ["charger"], "a": "charger nai mane survival mode 😭 phone off = tui off" },
-
   { "q": ["update"], "a": "update ashle bug o update hoy 😹 peace konodin stable na" },
-
   { "q": ["error"], "a": "error 404: brain not working 😹 restart dite hobe" },
-
   { "q": ["system"], "a": "system hang, restart lagbe 😵 tor mathao same condition" },
-
   { "q": ["ai"], "a": "AI ekdin boss hoye jabe 😶 tokhon tui intern hoiya thakbi" },
-
   { "q": ["robot"], "a": "beep bop 🤖 ami ready, tui ready to survive AI era? 😏" },
-
   { "q": ["dark"], "a": "dark mode = real peace 🌑 chokh bache, life o calm lage" },
-
   { "q": ["light"], "a": "light mode dile chokh cancel 😭 brightness diye attack" },
-
   { "q": ["mode"], "a": "mode change korte paro, kintu habit change korte paro? 😏" },
-
   { "q": ["mood off"], "a": "mood off? cha kha ☕ reboot hoye jabi instantly" },
-
   { "q": ["coffee"], "a": "coffee = coder fuel ☕ na hole code compile hoy na 😹" },
-
   { "q": ["tea"], "a": "tea mane peace 😌 ek cup e life reset" },
   { "q": ["চা"], "a": "cha chara Bangali chole na 😹 eta official medicine" },
-
   { "q": ["rain"], "a": "rain + memory = full sad 😭 unnecessary flashback" },
   { "q": ["বৃষ্টি"], "a": "bristi hole romantic feel ashe 😏 kintu tui single 😹" },
-
   { "q": ["winter"], "a": "winter e komble dhuke offline 😴 productivity zero" },
   { "q": ["শীত"], "a": "shit e ghum beshi, kaaj kom 😹 perfect combo" },
-
   { "q": ["vai"], "a": "ki obosta vai 😎 tension kom, vibe beshi rakho" },
   { "q": ["ভাই"], "a": "vai bollei bonding hoy 😌 but taka chai naile 😹" },
   { "q": ["apu"], "a": "ji apu 😌 respect full, kintu rag korle sobai chup 😹" },
   { "q": ["আপু"], "a": "apu mane soft voice + hidden strict mode 😏 careful thako" },
-
   { "q": ["bro"], "a": "yes bro 😎 ready always, kintu kaaj er time e vanish 😹" },
-
   { "q": ["sis"], "a": "bolo sis 🌸 drama thakle ami popcorn niye boshi 😹" },
-
   { "q": ["jan"], "a": "hmm jan 😏 drama start, ending usually sad 😹" },
   { "q": ["xan"], "a": "xan bollei romantic hoya jay na 😹 attitude lagbe boss" },
   { "q": ["bou"], "a": "bou mane full control system 😭 freedom uninstall" },
-
   { "q": ["cute"], "a": "tui o kom cute na 😌 but over confidence e spoil korish na 😹" },
-
   { "q": ["smart"], "a": "jani 😎 born smart, but use korte paro kina seta alada question" },
-
   { "q": ["ugly"], "a": "ugly bolos? mirror check kor age 😹 reality accept korte shikho" },
-
   { "q": ["meme"], "a": "life tai ekta meme 😭 tui sudhu character" },
-
   { "q": ["joke"], "a": "joke chai? tor exam result 😹 savage but true" },
-
   { "q": ["roast"], "a": "roast dite bolos? fire lagbe 😏 ready thako burn er jonno" },
   { "q": ["rost"], "a": "rost naki roast 😹 spelling e fail, confidence full" },
-
   { "q": ["cringe"], "a": "cringe unlimited pack 😭 dekheo ignore korte paro na" },
-
   { "q": ["ghost"], "a": "seen diye vanish 👻 ninja level ignore" },
   { "q": ["vhut"], "a": "vhut na boss 😹 real manus e beshi scary" },
   { "q": ["vut"], "a": "vut er theke real life problem beshi dangerous 😭" },
-
   { "q": ["seen"], "a": "seen diye ignore master 😶 reply dile status kombe naki?" },
-
   { "q": ["reply"], "a": "typing... tarpor ghost 😹 classic habit tor" },
   { "q": ["rply"], "a": "rply short kore smart hoite chaccho 😏 kintu effort zero" },
-
   { "q": ["typing"], "a": "typing cholse... brain loading 😌 5 min pore cancel" },
-
   { "q": ["online"], "a": "online but brain offline 😭 scroll e busy" },
-
   { "q": ["offline"], "a": "offline e peace beshi 😌 but tui thakte paro na" },
   { "q": ["study"], "a": "study korte boshlei ghum ashe 😴 brain bole 'ajke na kal theke serious' 😹" },
-
   { "q": ["school"], "a": "school life golden memory 😌 tokhon bujhi nai, ekhon miss kori" },
   { "q": ["scl"], "a": "scl bole shortcut koros 😹 pora teo shortcut chalaiteso naki?" },
-
   { "q": ["college"], "a": "college e attendance kom, tension beshi 😭 exam e sob clear hoy" },
   { "q": ["clg"], "a": "clg life mane freedom + confusion 😹 future unclear" },
-
   { "q": ["university"], "a": "university = assignment never ending 😵 deadline always near" },
   { "q": ["versity"], "a": "versity te dhukle bujba life easy chilo age 😭" },
-
   { "q": ["job"], "a": "job paile treat must 😹 na dile friendship cancel" },
-
   { "q": ["rich"], "a": "rich hole sobai close 😶 poor hole keu chinbe na" },
   { "q": ["dhoni"], "a": "dhoni hole respect automatic 😏 effort lagbe na" },
   { "q": ["dhon"], "a": "dhon nai bolei sob problem 😭 life hard mode" },
   { "q": ["boro luk"], "a": "boro luk hote chai sobai 😹 kintu kaaj korte keu chai na" },
-
   { "q": ["poor"], "a": "poor hole mon boro rakho 😌 attitude e difference koro" },
-
   { "q": ["success"], "a": "success = patience + grind 💪 shortcut nai boss" },
-
   { "q": ["failure"], "a": "failure mane retry option 😌 give up korle game over" },
-
   { "q": ["motivation"], "a": "motivation video diye 5 min fire, tarpor abar lazy 😹 consistency koi?" },
-
   { "q": ["depression"], "a": "depression ke ignore kora easy na 😔 but time change hobei, dhore thako" },
-
   { "q": ["happy"], "a": "happy thaka premium feeling 😊 sobar kache thake na" },
-
   { "q": ["ghum"], "a": "ghum lagle phone rekhe ghum de 😴 naile next day zombie" },
   { "q": ["ঘুম"], "a": "ghum best escape 😌 but beshi dile life skip hoye jabe 😹" },
-
   { "q": ["khida"], "a": "khida lagse? fridge raid de 😹 midnight mission start" },
   { "q": ["ক্ষুধা"], "a": "khudha hole logic thake na 😭 ja pao tai khao" },
   { "q": ["hungry"], "a": "hungry mood e sobai angry 😹 snickers ad real" },
-
   { "q": ["bored"], "a": "bored hole reel dekh 😹 5 min bole 2 ghonta sesh" },
   { "q": ["bore"], "a": "bore lage mane kaaj nai 😏 nijer fault accept kor" },
-
   { "q": ["lonely"], "a": "lonely hole nijer sathe chill kor 😌 sobai fake na, but sobai real o na" },
   { "q": ["eka"], "a": "eka thaka kharap na 😏 peace pawa jay" },
   { "q": ["ekla"], "a": "ekla feel hole music dao 🎧 vibe change hobe" },
   { "q": ["attitude"], "a": "attitude na boss, eta self respect 😎 kintu beshi hole lokjon distance maintain kore" },
-
   { "q": ["fake"], "a": "fake friend = free pain 😭 samne sweet, pichone delete" },
-
   { "q": ["real"], "a": "real manus rare 😌 pailay dhore rakho, nahole regret" },
-
   { "q": ["cheater"], "a": "cheater er jonno karma ready 😏 late holeo back ashbe" },
-
   { "q": ["breakup"], "a": "breakup hoise? gym join kor 😹 pain ke power banai" },
   { "q": ["brkup"], "a": "brkup mane emotional damage 😭 kintu glow up chance o ase" },
-
   { "q": ["relationship"], "a": "relationship = trust + patience 😌 ego dile finish" },
   { "q": ["rls"], "a": "rls short kore easy hoileo maintain kora hard 😹" },
-
   { "q": ["single"], "a": "single life peaceful 😌 but majhe majhe boring lage 😹" },
-
   { "q": ["married"], "a": "married = responsibility unlocked 😭 free time uninstall" },
-
   { "q": ["wife"], "a": "wife mane boss level fear 😹 ekta look e system hang" },
-
   { "q": ["husband"], "a": "husband always confused 😭 ki bolbe, ki bolbe na bujhe na" },
-
   { "q": ["baby"], "a": "baby cute 😌 kintu full time trouble 😹 sleep schedule RIP" },
-
   { "q": ["cat"], "a": "cat meow diye order dey 😹 tui pet, she boss" },
-
   { "q": ["dog"], "a": "dog mane loyal bro 🐶 fake manus er cheye better" },
-
   { "q": ["bird"], "a": "bird moto free hoite chai sobai 🕊️ kintu reality te bondho" },
-
   { "q": ["lion"], "a": "lion = king vibes 👑 kintu tui selfie king matro 😹" },
-
   { "q": ["snake"], "a": "snake silent but deadly 😶 manusher modhye beshi ase" },
-
   { "q": ["fire"], "a": "fire hole distance maintain 😹 nahole burn sure" },
-
   { "q": ["water"], "a": "pani kha 😌 nahole system hang hoye jabi" },
-
   { "q": ["moon"], "a": "chand o ekla 😶 tui o same vibe" },
-
   { "q": ["sun"], "a": "sun moto shine kor ☀️ kintu overheat hoiyo na 😹" },
-
   { "q": ["star"], "a": "tui o ekta hidden star 😌 but nijer light on korte hobe" },
-
   { "q": ["sky"], "a": "sky limit na boss 😎 tor mindset limit" },
   { "q": ["travel"], "a": "travel korle mind refresh 😌 kintu taka chara plan sudhu dream e thake 😹" },
-
   { "q": ["bike"], "a": "bike chalale hero feel 😎 kintu speed beshi dile direct news e jabi 😭" },
-
   { "q": ["car"], "a": "car chalano easy 😏 fuel price dekhe heart attack 😭" },
-
   { "q": ["problem"], "a": "problem sobar life e ase 😶 difference holo ke solve kore, ke complain kore" },
-
   { "q": ["chino"], "a": "chino naki? legend ke na chine 😎 tui late entry" },
   { "q": ["চিনো"], "a": "chine nai bolle insult 😹 ami famous mone hoy na?" },
-
   { "q": ["name"], "a": "amar name tessa robot 😹 kintu tor contact list e ki name e save?" },
   { "q": ["nam"], "a": "nam jiggesh koros, kintu mone rakhba to? 😏" },
   { "q": ["নাম"], "a": "naam diye ki hobe 😹 kaaj diye chinbe manus" },
-
   { "q": ["beda"], "a": "beda bole call korteso? CV banabi naki 😹 eto info dorkar?" },
   { "q": ["chele"], "a": "chele hole ki? attitude lagbe boss 😎 nahole ignore" },
   { "q": ["বেডা"], "a": "beda bolle swag bare 😏 kintu respect o lagbe" },
-
   { "q": ["pagol"], "a": "ektu pagol, full fun 😹 normal hole boring lagto" },
   { "q": ["পাগল"], "a": "pagol na boss, creative 😏 difference bujho" },
-
   { "q": ["matha"], "a": "matha noshto hoye geche 😭 eto tension niye ki koros?" },
   { "q": ["noshto"], "a": "noshto matha diye decision nile regret free 😹" },
   { "q": ["nosto"], "a": "nosto mode on 😭 restart lagbe urgent" },
-
   { "q": ["ghurte"], "a": "ghurte jete chai sobai 😌 kintu budget bole 'bosho' 😹" },
   { "q": ["gurte"], "a": "gurte bolos, plan ready, taka missing 😭 classic life" },
   { "q": ["jabi"], "a": "jabi naki? taka dile ami ready 😎 free te possible na" },
-
   { "q": ["ice cream"], "a": "ice cream share korle taste double 🍦 na dile friendship questionable 😹" },
-
   { "q": ["burger"], "a": "burger e extra cheese na hole mood off 😌 luxury habit" },
-
   { "q": ["pizza"], "a": "pizza er last slice niye war 😭 friendship test hoy ekhane" },
-
   { "q": ["chicken"], "a": "chicken mane kfc mood 🍗 diet plan RIP 😹" },
-
   { "q": ["cold"], "a": "cold vibe rakho 😌 over react korle respect kome" },
   { "q": ["drink"], "a": "drink thanda holei moja 😹 nahole useless" },
   { "q": ["dance"], "a": "dance korle floor panic 😹 tui na, earthquake lage mone hoy" },
-
   { "q": ["sing"], "a": "gan gailay neighbour run 😭 talent hidden thakai better" },
-
   { "q": ["photo"], "a": "photo tulte gele nervous 😶 camera te real face dhora pore" },
-
   { "q": ["selfie"], "a": "selfie te angle thik hole superstar 😌 na hole delete mission 😹" },
-
   { "q": ["status"], "a": "status diye feelings leak 😹 indirect message master tui" },
-
   { "q": ["story"], "a": "story dekhe judge korish na 😌 real life onno level" },
-
   { "q": ["mood"], "a": "mood swing unlimited 😭 ekhon happy, 2 min pore sad" },
-
   { "q": ["silent"], "a": "silent mane heavy thinking 😶 ba hoyto kichui bhabos na 😹" },
-
   { "q": ["issue"], "a": "issue thakle solve kor 😏 ignore korle barbei" },
-
   { "q": ["heart"], "a": "heart handle with care ❤️ naile crack hoye jabe easily" },
-
   { "q": ["life"], "a": "life unpredictable rollercoaster 😹 seatbelt nai, just survive" },
-
   { "q": ["future"], "a": "future er jonno grind kor 😎 naile regret free pabi" },
-
   { "q": ["past"], "a": "past bhable lag kore 😶 move on best option" },
-
   { "q": ["dream"], "a": "dream big 😎 kintu ghumaiya na, kaaj kore" },
   { "q": ["dirim"], "a": "dirim bolle dream easy hoy na 😹 spelling thik kor age" },
-
   { "q": ["reality"], "a": "reality hard mode 😭 cheat code nai boss" },
-
   { "q": ["luck"], "a": "luck + hustle = win 😌 sudhu luck e kichu hoy na" },
-
   { "q": ["power"], "a": "power hole attitude free 😹 control na thakle danger" },
-
   { "q": ["king"], "a": "respect king 👑 but kaaj diye prove korte hoy" },
   { "q": ["queen"], "a": "queen vibes 👑 kintu drama beshi hole problem 😹" },
   { "q": ["kharap"], "a": "kharap time thakbei 😌 eta permanent na boss" },
@@ -620,33 +450,20 @@
   { "q": ["cry"], "a": "kanna dile halka lage 😔 kintu sobar shamne dile respect kome 😏 control important" },
   { "q": ["kanna"], "a": "kanna mane weak na 😌 kintu beshi dile habit hoye jay" },
   { "q": ["কান্না"], "a": "kanna thik ase, but strong hoye back asha real win 😎" },
-
   { "q": ["smile"], "a": "smile free therapy 😊 kintu fake smile beshi din thake na" },
-
   { "q": ["wait"], "a": "wait korle value bare 😌 kintu beshi wait korle time waste" },
   { "q": ["late"], "a": "late reply dile importance kome 😏 timing matter boss" },
-
   { "q": ["block"], "a": "block mane story end 😶 abar unblock mane season 2 😹" },
-
   { "q": ["unblock"], "a": "unblock korle bujha jay feelings abar jagse 😏 risky move" },
-
   { "q": ["ignore"], "a": "ignore = max pain 😔 reply dile kichu jeto na boss" },
-
   { "q": ["respect"], "a": "respect earn korte hoy 😌 demand korle pawa jay na" },
-
   { "q": ["ego"], "a": "ego sob noshto kore 😶 kom hole life easy" },
-
   { "q": ["sorry"], "a": "sorry dile heart soft hoy 😌 but repeat korle value zero" },
-
   { "q": ["forgive"], "a": "sobai mistake kore 😌 but sobai second chance deserve kore na" },
   { "q": ["revenge"], "a": "silent success best revenge 😎 kotha na, result diye jawab dao" },
-
   { "q": ["powerful"], "a": "nijeke control korte parlei real power 💯 onno ke control na" },
-
   { "q": ["weak"], "a": "weak time e lesson ase 😌 eta permanent na" },
-
   { "q": ["motivate"], "a": "aj struggle, kal success 😎 consistency thakle win sure" },
-
   { "q": ["lazy"], "a": "lazy mode permanently on 😴 dream ase, kaaj nai 😹" },
   { "q": ["olos"], "a": "olos thakle life o olos hoye jabe 😭 move korte hobe" },
   { "q": ["alsa"], "a": "alsa mood e success ashe na 😏 effort lagbe boss" },
@@ -654,17 +471,11 @@
   { "q": ["hard"], "a": "hard lage bolei chere dile loser 😏 try korle easy hoy" },
   { "q": ["work"], "a": "hard work always payback 💪 shortcut e long term loss" },
   { "q": ["night"], "a": "raat mane deep thinking 🌙 overthinking o free te ashe 😹" },
-
   { "q": ["morning"], "a": "new day new chance ☀️ kintu tui abar same mistake korbi 😹" },
-
   { "q": ["storm"], "a": "storm er porei calm 😌 patience rakho" },
-
   { "q": ["darkness"], "a": "dark na thakle light bujha jay na 🌑 struggle important" },
-
   { "q": ["light"], "a": "nijer light nijai ho 😎 onno ke depend korish na" },
-
   { "q": ["legend"], "a": "legend never die 😌 but legend hoite hole kaaj korte hoy" },
-
   { "q": ["good"], "a": "good thaka easy 😌 great hoite effort lagbe" },
   { "q": ["luck"], "a": "best of luck boss 🍀 kintu luck er sathe hustle lagbe" },
   { "q": ["koi"], "a": "koi jiggesh koros? tor moner vitorei achi 😌 deep line 😹" },
