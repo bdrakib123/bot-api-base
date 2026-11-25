@@ -1,0 +1,4338 @@
+[
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "A": "J. K. Rowling",
+    "B": "Harper Lee",
+    "C": "Ernest Hemingway",
+    "D": "F. Scott Fitzgerald",
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital of the United Kingdom?",
+    "A": "Manchester",
+    "B": "Birmingham",
+    "C": "London",
+    "D": "Liverpool",
+    "answer": "C"
+  },
+  {
+    "question": "Who is generally credited with inventing the printing press?",
+    "A": "William Caxton",
+    "B": "Johannes Gutenberg",
+    "C": "Galileo Galilei",
+    "D": "Leonardo da Vinci",
+    "answer": "B"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "A": "Venus",
+    "B": "Mars",
+    "C": "Jupiter",
+    "D": "Saturn",
+    "answer": "B"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "A": "Sydney",
+    "B": "Melbourne",
+    "C": "Canberra",
+    "D": "Brisbane",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous scientist developed the Theory of Relativity?",
+    "A": "Isaac Newton",
+    "B": "Albert Einstein",
+    "C": "Stephen Hawking",
+    "D": "Niels Bohr",
+    "answer": "B"
+  },
+  {
+    "question": "In which city is the famous 'Colosseum' located?",
+    "A": "Athens",
+    "B": "Paris",
+    "C": "Rome",
+    "D": "London",
+    "answer": "C"
+  },
+  {
+    "question": "Who painted the 'Mona Lisa'?",
+    "A": "Vincent van Gogh",
+    "B": "Pablo Picasso",
+    "C": "Leonardo da Vinci",
+    "D": "Claude Monet",
+    "answer": "C"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "A": "Amazon River",
+    "B": "Nile River",
+    "C": "Yangtze River",
+    "D": "Mississippi River",
+    "answer": "B"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "A": "Iron",
+    "B": "Mercury",
+    "C": "Gold",
+    "D": "Silver",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "A": "Charles Dickens",
+    "B": "William Shakespeare",
+    "C": "Jane Austen",
+    "D": "George Orwell",
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary function of the lungs in the human body?",
+    "A": "Pumping blood",
+    "B": "Digestion",
+    "C": "Respiration (Gas Exchange)",
+    "D": "Filtering waste",
+    "answer": "C"
+  },
+  {
+    "question": "Mount Everest is located in which mountain range?",
+    "A": "Andes",
+    "B": "Rocky Mountains",
+    "C": "Himalayas",
+    "D": "Alps",
+    "answer": "C"
+  },
+  {
+    "question": "The chemical symbol for water is...",
+    "A": "$O_2$",
+    "B": "$CO_2$",
+    "C": "$H_2O$",
+    "D": "$NaCl$",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "A": "China",
+    "B": "South Korea",
+    "C": "Japan",
+    "D": "Vietnam",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first person to step on the Moon?",
+    "A": "Buzz Aldrin",
+    "B": "Yuri Gagarin",
+    "C": "Neil Armstrong",
+    "D": "Michael Collins",
+    "answer": "C"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "A": "Atlantic Ocean",
+    "B": "Indian Ocean",
+    "C": "Arctic Ocean",
+    "D": "Pacific Ocean",
+    "answer": "D"
+  },
+  {
+    "question": "Which element has the chemical symbol 'K'?",
+    "A": "Krypton",
+    "B": "Potassium",
+    "C": "Calcium",
+    "D": "Iron",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the famous clock tower in London (referring to the bell inside)?",
+    "A": "Elizabeth Tower",
+    "B": "Big Ben",
+    "C": "Westminster Tower",
+    "D": "London Eye",
+    "answer": "B"
+  },
+  {
+    "question": "The process by which plants make their food is called...",
+    "A": "Respiration",
+    "B": "Transpiration",
+    "C": "Photosynthesis",
+    "D": "Osmosis",
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Nobel Peace Prize in 1979 for her humanitarian work?",
+    "A": "Rosa Parks",
+    "B": "Mother Teresa",
+    "C": "Marie Curie",
+    "D": "Malala Yousafzai",
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "A": "Anemometer",
+    "B": "Hydrometer",
+    "C": "Barometer",
+    "D": "Seismograph",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Great Barrier Reef' is located off the coast of which country?",
+    "A": "Brazil",
+    "B": "Australia",
+    "C": "Madagascar",
+    "D": "India",
+    "answer": "B"
+  },
+  {
+    "question": "Who composed the music known as 'The Four Seasons'?",
+    "A": "Bach",
+    "B": "Mozart",
+    "C": "Vivaldi",
+    "D": "Beethoven",
+    "answer": "C"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "A": "Gold",
+    "B": "Iron",
+    "C": "Diamond",
+    "D": "Quartz",
+    "answer": "C"
+  },
+  {
+    "question": "Which country built the 'Suez Canal'?",
+    "A": "Egypt",
+    "B": "France",
+    "C": "UK",
+    "D": "It connects the Red Sea and the Mediterranean Sea",
+    "answer": "D"
+  },
+  {
+    "question": "In computing, what does 'RAM' stand for?",
+    "A": "Random Access Memory",
+    "B": "Read Only Memory",
+    "C": "Remote Access Management",
+    "D": "Run All Modules",
+    "answer": "A"
+  },
+  {
+    "question": "Which famous structure was built by the Inca civilization in Peru?",
+    "A": "Teotihuacan",
+    "B": "Chichen Itza",
+    "C": "Machu Picchu",
+    "D": "Pyramids of Giza",
+    "answer": "C"
+  },
+  {
+    "question": "The unit of electric resistance is...",
+    "A": "Ampere",
+    "B": "Volt",
+    "C": "Ohm",
+    "D": "Watt",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "A": "Beryl Markham",
+    "B": "Amelia Earhart",
+    "C": "Jacqueline Cochran",
+    "D": "Valentina Tereshkova",
+    "answer": "B"
+  },
+  {
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "A": "London",
+    "B": "Tokyo",
+    "C": "Rio de Janeiro",
+    "D": "Beijing",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of turning liquid into gas called?",
+    "A": "Condensation",
+    "B": "Sublimation",
+    "C": "Evaporation",
+    "D": "Freezing",
+    "answer": "C"
+  },
+  {
+    "question": "Who developed the first commercially successful internal combustion engine?",
+    "A": "Henry Ford",
+    "B": "Nikola Tesla",
+    "C": "Nikolaus Otto",
+    "D": "James Watt",
+    "answer": "C"
+  },
+  {
+    "question": "In which US state is the 'Grand Canyon' located?",
+    "A": "California",
+    "B": "Utah",
+    "C": "Arizona",
+    "D": "Nevada",
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "A": "Aldous Huxley",
+    "B": "George Orwell",
+    "C": "Ray Bradbury",
+    "D": "J.R.R. Tolkien",
+    "answer": "B"
+  },
+  {
+    "question": "The element essential for making stainless steel is...",
+    "A": "Nickel",
+    "B": "Chromium",
+    "C": "Copper",
+    "D": "Zinc",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Statue of Liberty' was a gift to the United States from which country?",
+    "A": "Germany",
+    "B": "Spain",
+    "C": "France",
+    "D": "United Kingdom",
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary gas found in the Earth's atmosphere?",
+    "A": "Oxygen",
+    "B": "Carbon Dioxide",
+    "C": "Nitrogen",
+    "D": "Argon",
+    "answer": "C"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Economics'?",
+    "A": "Karl Marx",
+    "B": "John Maynard Keynes",
+    "C": "Adam Smith",
+    "D": "Milton Friedman",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Eiffel Tower' was built for which major event?",
+    "A": "The End of WWII",
+    "B": "The 1889 World's Fair",
+    "C": "The French Revolution Bicentennial",
+    "D": "The 1900 Summer Olympics",
+    "answer": "B"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "A": "1905",
+    "B": "1912",
+    "C": "1918",
+    "D": "1923",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the sea that has no land borders, floating within a current?",
+    "A": "Black Sea",
+    "B": "Mediterranean Sea",
+    "C": "Sargasso Sea",
+    "D": "Dead Sea",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "A": "Theresa May",
+    "B": "Margaret Thatcher",
+    "C": "Angela Merkel",
+    "D": "Indira Gandhi",
+    "answer": "B"
+  },
+  {
+    "question": "The famous ancient city of 'Petra' is located in which modern country?",
+    "A": "Egypt",
+    "B": "Jordan",
+    "C": "Turkey",
+    "D": "Greece",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is a flightless bird?",
+    "A": "Eagle",
+    "B": "Penguin",
+    "C": "Sparrow",
+    "D": "Albatross",
+    "answer": "B"
+  },
+  {
+    "question": "Who is the founder of the social media company 'Facebook'?",
+    "A": "Jeff Bezos",
+    "B": "Elon Musk",
+    "C": "Mark Zuckerberg",
+    "D": "Bill Gates",
+    "answer": "C"
+  },
+  {
+    "question": "What material is the 'Leaning Tower of Pisa' primarily made of?",
+    "A": "Wood",
+    "B": "Marble",
+    "C": "Brick and Stone",
+    "D": "Steel",
+    "answer": "C"
+  },
+  {
+    "question": "The chemical process of rusting is an example of which type of reaction?",
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Hydrolysis",
+    "D": "Neutralization",
+    "answer": "B"
+  },
+  {
+    "question": "Which sport is associated with the term 'Hat-trick'?",
+    "A": "Basketball",
+    "B": "Football (Soccer)",
+    "C": "Golf",
+    "D": "Tennis",
+    "answer": "B"
+  },
+  {
+    "question": "Who discovered Penicillin?",
+    "A": "Louis Pasteur",
+    "B": "Alexander Fleming",
+    "C": "Jonas Salk",
+    "D": "Robert Koch",
+    "answer": "B"
+  },
+  {
+    "question": "Which mountain peak is the highest in Africa?",
+    "A": "Mount Kenya",
+    "B": "Mount Kilimanjaro",
+    "C": "Mount Elgon",
+    "D": "Atlas Mountains",
+    "answer": "B"
+  },
+  {
+    "question": "The basic unit of life is the...",
+    "A": "Atom",
+    "B": "Molecule",
+    "C": "Cell",
+    "D": "Tissue",
+    "answer": "C"
+  },
+  {
+    "question": "Which ancient civilization built the city of 'Babylon'?",
+    "A": "Egyptian",
+    "B": "Mesopotamian",
+    "C": "Indus Valley",
+    "D": "Roman",
+    "answer": "B"
+  },
+  {
+    "question": "What does the 'T' in the abbreviation 'T-shirt' stand for?",
+    "A": "Towel",
+    "B": "Two",
+    "C": "Tee (referring to its shape)",
+    "D": "Thin",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous explorer is credited with circumnavigating the Earth for the first time?",
+    "A": "Christopher Columbus",
+    "B": "Ferdinand Magellan",
+    "C": "Vasco da Gama",
+    "D": "Marco Polo",
+    "answer": "B"
+  },
+  {
+    "question": "What is the collective term for a group of lions?",
+    "A": "Herd",
+    "B": "Pack",
+    "C": "Pride",
+    "D": "Flock",
+    "answer": "C"
+  },
+  {
+    "question": "The famous painting 'The Starry Night' was created by which artist?",
+    "A": "Claude Monet",
+    "B": "Vincent van Gogh",
+    "C": "Pablo Picasso",
+    "D": "Salvador Dalí",
+    "answer": "B"
+  },
+  {
+    "question": "Which continent is home to the Amazon Rainforest?",
+    "A": "Africa",
+    "B": "Asia",
+    "C": "South America",
+    "D": "North America",
+    "answer": "C"
+  },
+  {
+    "question": "In which year did the Second World War end?",
+    "A": "1939",
+    "B": "1945",
+    "C": "1950",
+    "D": "1918",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "A": "Ag",
+    "B": "Au",
+    "C": "Fe",
+    "D": "Cu",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote the novel 'Pride and Prejudice'?",
+    "A": "Jane Austen",
+    "B": "Charlotte Brontë",
+    "C": "Virginia Woolf",
+    "D": "George Eliot",
+    "answer": "A"
+  },
+  {
+    "question": "What is the main compound responsible for the greenhouse effect on Earth?",
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Carbon Dioxide",
+    "D": "Helium",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is bordered by 14 other countries?",
+    "A": "USA",
+    "B": "India",
+    "C": "China",
+    "D": "Brazil",
+    "answer": "C"
+  },
+  {
+    "question": "The Olympic Games are held every how many years?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "A": "Andromeda",
+    "B": "Triangulum",
+    "C": "Whirlpool",
+    "D": "Milky Way",
+    "answer": "D"
+  },
+  {
+    "question": "The instrument used to measure the intensity of earthquakes is called a...",
+    "A": "Barometer",
+    "B": "Seismograph",
+    "C": "Anemometer",
+    "D": "Hygrometer",
+    "answer": "B"
+  },
+  {
+    "question": "Which city is home to the 'Vatican City'?",
+    "A": "Florence",
+    "B": "Rome",
+    "C": "Venice",
+    "D": "Milan",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the first female US Supreme Court Justice?",
+    "A": "Ruth Bader Ginsburg",
+    "B": "Sonia Sotomayor",
+    "C": "Sandra Day O'Connor",
+    "D": "Elena Kagan",
+    "answer": "C"
+  },
+  {
+    "question": "What type of energy is stored in a compressed spring?",
+    "A": "Kinetic Energy",
+    "B": "Potential Energy",
+    "C": "Thermal Energy",
+    "D": "Chemical Energy",
+    "answer": "B"
+  },
+  {
+    "question": "Which European city is split by the Bosphorus Strait, connecting two continents?",
+    "A": "Athens",
+    "B": "Istanbul",
+    "C": "Rome",
+    "D": "Lisbon",
+    "answer": "B"
+  },
+  {
+    "question": "The longest bone in the human body is the...",
+    "A": "Tibia",
+    "B": "Fibula",
+    "C": "Femur (Thighbone)",
+    "D": "Humerus",
+    "answer": "C"
+  },
+  {
+    "question": "Who famously said, 'I think, therefore I am' (Cogito, ergo sum)?",
+    "A": "Plato",
+    "B": "Socrates",
+    "C": "René Descartes",
+    "D": "Immanuel Kant",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is the largest producer of coffee in the world?",
+    "A": "Colombia",
+    "B": "Vietnam",
+    "C": "Brazil",
+    "D": "Ethiopia",
+    "answer": "C"
+  },
+  {
+    "question": "In the world of art, what is 'Impressionism'?",
+    "A": "A style focusing on realistic details",
+    "B": "A style focusing on the subjective perception of light and color",
+    "C": "A style using only black and white",
+    "D": "A style popular in ancient Greece",
+    "answer": "B"
+  },
+  {
+    "question": "The primary component of natural gas is...",
+    "A": "Propane",
+    "B": "Butane",
+    "C": "Methane",
+    "D": "Ethane",
+    "answer": "C"
+  },
+  {
+    "question": "Which English monarch reigned during the defeat of the Spanish Armada?",
+    "A": "Henry VIII",
+    "B": "Queen Victoria",
+    "C": "Elizabeth I",
+    "D": "George III",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Stonehenge' monument is located in which European country?",
+    "A": "France",
+    "B": "Ireland",
+    "C": "United Kingdom",
+    "D": "Germany",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the imaginary line that divides the Earth into the Northern and Southern Hemispheres?",
+    "A": "Prime Meridian",
+    "B": "Equator",
+    "C": "Tropic of Cancer",
+    "D": "Arctic Circle",
+    "answer": "B"
+  },
+  {
+    "question": "Who is the author of 'The Odyssey'?",
+    "A": "Virgil",
+    "B": "Homer",
+    "C": "Aristotle",
+    "D": "Sophocles",
+    "answer": "B"
+  },
+  {
+    "question": "The chemical formula for table salt is...",
+    "A": "$HCl$",
+    "B": "$KCl$",
+    "C": "$NaCl$",
+    "D": "$CaCl_2$",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is the origin of the 'Tango' dance form?",
+    "A": "Spain",
+    "B": "Argentina",
+    "C": "Cuba",
+    "D": "Mexico",
+    "answer": "B"
+  },
+  {
+    "question": "The shortest war in history (between Britain and Zanzibar) lasted approximately how long?",
+    "A": "45 days",
+    "B": "45 hours",
+    "C": "45 minutes",
+    "D": "45 seconds",
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary ingredient in chocolate?",
+    "A": "Vanilla bean",
+    "B": "Coffee bean",
+    "C": "Cocoa bean",
+    "D": "Soybean",
+    "answer": "C"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Carbon Dioxide",
+    "D": "Hydrogen",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic?",
+    "A": "Nero",
+    "B": "Augustus",
+    "C": "Julius Caesar",
+    "D": "Constantine",
+    "answer": "C"
+  },
+  {
+    "question": "The famous opera house 'La Scala' is located in which Italian city?",
+    "A": "Rome",
+    "B": "Venice",
+    "C": "Milan",
+    "D": "Naples",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light bends as it passes from one medium to another?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Absorption",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is NOT a primary color of light (Additive colors)?",
+    "A": "Red",
+    "B": "Green",
+    "C": "Blue",
+    "D": "Yellow",
+    "answer": "D"
+  },
+  {
+    "question": "The deepest point in the world's oceans, the Challenger Deep, is located in the...",
+    "A": "Puerto Rico Trench",
+    "B": "Java Trench",
+    "C": "Mariana Trench",
+    "D": "Tonga Trench",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first person to use the word 'geography'?",
+    "A": "Herodotus",
+    "B": "Ptolemy",
+    "C": "Eratosthenes",
+    "D": "Strabo",
+    "answer": "C"
+  },
+  {
+    "question": "In which year was the 'United Nations' (UN) officially established?",
+    "A": "1942",
+    "B": "1945",
+    "C": "1950",
+    "D": "1962",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the world's largest non-polar desert?",
+    "A": "Gobi Desert",
+    "B": "Kalahari Desert",
+    "C": "Arabian Desert",
+    "D": "Sahara Desert",
+    "answer": "D"
+  },
+  {
+    "question": "Who is the author of the children's classic 'Alice's Adventures in Wonderland'?",
+    "A": "Roald Dahl",
+    "B": "C.S. Lewis",
+    "C": "Lewis Carroll",
+    "D": "A.A. Milne",
+    "answer": "C"
+  },
+  {
+    "question": "The fundamental force responsible for holding the nucleus of an atom together is the...",
+    "A": "Gravitational Force",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous scientist is associated with the 'principle of buoyancy' (Eureka!)?",
+    "A": "Galileo Galilei",
+    "B": "Isaac Newton",
+    "C": "Archimedes",
+    "D": "Aristotle",
+    "answer": "C"
+  },
+  {
+    "question": "The ancient city of 'Timbuktu' is located in which African country?",
+    "A": "Egypt",
+    "B": "Ethiopia",
+    "C": "Mali",
+    "D": "Nigeria",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first person to accurately calculate the circumference of the Earth?",
+    "A": "Ptolemy",
+    "B": "Hipparchus",
+    "C": "Eratosthenes",
+    "D": "Aristarchus",
+    "answer": "C"
+  },
+  {
+    "question": "In which city is the 'Hollywood' sign located?",
+    "A": "New York City",
+    "B": "Los Angeles",
+    "C": "San Francisco",
+    "D": "Miami",
+    "answer": "B"
+  },
+  {
+    "question": "The primary purpose of the 'Taj Mahal' was as a...",
+    "A": "Fortress",
+    "B": "Temple",
+    "C": "Tomb (Mausoleum)",
+    "D": "Palace",
+    "answer": "C"
+  },
+  {
+    "question": "What is the maximum number of players allowed on the field for one team in a game of soccer (football)?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "15",
+    "answer": "B"
+  },
+  {
+    "question": "The phenomenon of 'Aurora Borealis' (Northern Lights) is caused by...",
+    "A": "Solar winds interacting with Earth's magnetic field",
+    "B": "Atmospheric pollution",
+    "C": "Lightning storms",
+    "D": "Volcanic eruptions",
+    "answer": "A"
+  },
+  {
+    "question": "Which large flightless bird is native to Australia and is the second-largest living bird by height?",
+    "A": "Ostrich",
+    "B": "Emu",
+    "C": "Rhea",
+    "D": "Cassowary",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Punic Wars' were fought primarily between which two powers?",
+    "A": "Rome and Greece",
+    "B": "Rome and Carthage",
+    "C": "Greece and Persia",
+    "D": "England and France",
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of measurement for frequency?",
+    "A": "Volt",
+    "B": "Watt",
+    "C": "Hertz",
+    "D": "Joule",
+    "answer": "C"
+  },
+  {
+    "question": "Who composed the famous symphony 'Ode to Joy'?",
+    "A": "Wolfgang Amadeus Mozart",
+    "B": "Ludwig van Beethoven",
+    "C": "Johann Sebastian Bach",
+    "D": "Frédéric Chopin",
+    "answer": "B"
+  },
+  {
+    "question": "Which country is the world's most populous democracy?",
+    "A": "United States",
+    "B": "China",
+    "C": "India",
+    "D": "Indonesia",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process that gives the Sun its energy?",
+    "A": "Nuclear Fission",
+    "B": "Chemical Reaction",
+    "C": "Nuclear Fusion",
+    "D": "Combustion",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous children's author wrote 'Charlie and the Chocolate Factory'?",
+    "A": "J.K. Rowling",
+    "B": "Roald Dahl",
+    "C": "Dr. Seuss",
+    "D": "A.A. Milne",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Great Pyramid of Giza' was built for which Egyptian Pharaoh?",
+    "A": "Tutankhamun",
+    "B": "Ramesses II",
+    "C": "Khufu",
+    "D": "Akhenaten",
+    "answer": "C"
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "A": "Heart",
+    "B": "Brain",
+    "C": "Liver",
+    "D": "Lungs",
+    "answer": "C"
+  },
+  {
+    "question": "Which European river flows through Vienna, Budapest, and Belgrade?",
+    "A": "Rhine",
+    "B": "Thames",
+    "C": "Danube",
+    "D": "Seine",
+    "answer": "C"
+  },
+  {
+    "question": "In which city did the Summer Olympic Games originate in ancient times?",
+    "A": "Athens",
+    "B": "Sparta",
+    "C": "Olympia",
+    "D": "Delphi",
+    "answer": "C"
+  },
+  {
+    "question": "The study of fungi is known as...",
+    "A": "Zoology",
+    "B": "Botany",
+    "C": "Mycology",
+    "D": "Geology",
+    "answer": "C"
+  },
+  {
+    "question": "Which metal is the best conductor of electricity?",
+    "A": "Copper",
+    "B": "Gold",
+    "C": "Silver",
+    "D": "Aluminum",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the author of the epic poem 'Paradise Lost'?",
+    "A": "Geoffrey Chaucer",
+    "B": "John Milton",
+    "C": "William Blake",
+    "D": "Lord Byron",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous bridge connects San Francisco and Marin County?",
+    "A": "Brooklyn Bridge",
+    "B": "Golden Gate Bridge",
+    "C": "Tower Bridge",
+    "D": "Mackinac Bridge",
+    "answer": "B"
+  },
+  {
+    "question": "The phenomenon of light bending when passing through a prism is called...",
+    "A": "Reflection",
+    "B": "Dispersion",
+    "C": "Refraction",
+    "D": "Polarization",
+    "answer": "B"
+  },
+  {
+    "question": "Which political activist and leader was known for his policy of 'Apartheid' in South Africa?",
+    "A": "Desmond Tutu",
+    "B": "F.W. de Klerk",
+    "C": "Nelson Mandela",
+    "D": "He was the one who fought against Apartheid (Nelson Mandela)",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a word that is spelled the same forwards and backwards (e.g., 'madam')?",
+    "A": "Anagram",
+    "B": "Palindrome",
+    "C": "Homophone",
+    "D": "Synonym",
+    "answer": "B"
+  },
+  {
+    "question": "Which country is completely surrounded by South Africa?",
+    "A": "Zimbabwe",
+    "B": "Botswana",
+    "C": "Lesotho",
+    "D": "Namibia",
+    "answer": "C"
+  },
+  {
+    "question": "The first permanent English settlement in North America was...",
+    "A": "Plymouth",
+    "B": "Jamestown",
+    "C": "Boston",
+    "D": "New York",
+    "answer": "B"
+  },
+  {
+    "question": "What is the speed of light in a vacuum, approximately?",
+    "A": "30,000 km/s",
+    "B": "300,000 km/s",
+    "C": "3,000 km/s",
+    "D": "30,000,000 km/s",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is considered the 'father of history'?",
+    "A": "Thucydides",
+    "B": "Plato",
+    "C": "Herodotus",
+    "D": "Socrates",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous structure was a gift from the people of France to the people of the United States?",
+    "A": "Washington Monument",
+    "B": "Mount Rushmore",
+    "C": "Statue of Liberty",
+    "D": "Empire State Building",
+    "answer": "C"
+  },
+  {
+    "question": "What is the collective name for the group of stars that form a pattern in the sky?",
+    "A": "Galaxy",
+    "B": "Nebula",
+    "C": "Constellation",
+    "D": "Cluster",
+    "answer": "C"
+  },
+  {
+    "question": "In which continent is the 'Patagonia' region primarily located?",
+    "A": "North America",
+    "B": "South America",
+    "C": "Africa",
+    "D": "Australia",
+    "answer": "B"
+  },
+  {
+    "question": "Who developed the smallpox vaccine, the first successful vaccine in the world?",
+    "A": "Louis Pasteur",
+    "B": "Edward Jenner",
+    "C": "Jonas Salk",
+    "D": "Alexander Fleming",
+    "answer": "B"
+  },
+  {
+    "question": "Which fictional detective resides at 221B Baker Street in London?",
+    "A": "Hercule Poirot",
+    "B": "Miss Marple",
+    "C": "Sherlock Holmes",
+    "D": "Philip Marlowe",
+    "answer": "C"
+  },
+  {
+    "question": "What is the largest species of shark in the world?",
+    "A": "Great White Shark",
+    "B": "Tiger Shark",
+    "C": "Whale Shark",
+    "D": "Hammerhead Shark",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Magna Carta' was signed by which English King in 1215?",
+    "A": "King Henry II",
+    "B": "King John",
+    "C": "King Richard I",
+    "D": "King Edward I",
+    "answer": "B"
+  },
+  {
+    "question": "Which European city is known as the 'City of Canals'?",
+    "A": "Paris",
+    "B": "Amsterdam",
+    "C": "Venice",
+    "D": "Copenhagen",
+    "answer": "C"
+  },
+  {
+    "question": "The concept of 'survival of the fittest' is central to the theory of...",
+    "A": "Plate Tectonics",
+    "B": "Relativity",
+    "C": "Evolution by Natural Selection",
+    "D": "Quantum Mechanics",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous physicist is known for his work on 'Black Holes' and 'The Brief History of Time'?",
+    "A": "Albert Einstein",
+    "B": "Richard Feynman",
+    "C": "Carl Sagan",
+    "D": "Stephen Hawking",
+    "answer": "D"
+  },
+  {
+    "question": "The official currency of Switzerland is the...",
+    "A": "Euro",
+    "B": "Swiss Franc",
+    "C": "Swiss Dollar",
+    "D": "Lira",
+    "answer": "B"
+  },
+  {
+    "question": "Which classical music instrument is famously played by Yo-Yo Ma?",
+    "A": "Violin",
+    "B": "Piano",
+    "C": "Cello",
+    "D": "Flute",
+    "answer": "C"
+  },
+  {
+    "question": "The term 'Renaissance' literally means...",
+    "A": "New Beginning",
+    "B": "Rebirth",
+    "C": "Golden Age",
+    "D": "Enlightenment",
+    "answer": "B"
+  },
+  {
+    "question": "What is the main component of Earth's core?",
+    "A": "Silicon and Aluminum",
+    "B": "Oxygen and Carbon",
+    "C": "Iron and Nickel",
+    "D": "Water and Ice",
+    "answer": "C"
+  },
+  {
+    "question": "Which author created the character 'Harry Potter'?",
+    "A": "J.R.R. Tolkien",
+    "B": "Stephen King",
+    "C": "J. K. Rowling",
+    "D": "George R.R. Martin",
+    "answer": "C"
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "A": "Paris",
+    "B": "London",
+    "C": "Athens",
+    "D": "Rome",
+    "answer": "C"
+  },
+  {
+    "question": "The chemical symbol for Sodium is...",
+    "A": "So",
+    "B": "Na",
+    "C": "Ni",
+    "D": "Sd",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the largest desert in Asia?",
+    "A": "Sahara Desert",
+    "B": "Arabian Desert",
+    "C": "Gobi Desert",
+    "D": "Kalahari Desert",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "A": "Mother Teresa",
+    "B": "Marie Curie",
+    "C": "Rosalind Franklin",
+    "D": "Dorothy Crowfoot Hodgkin",
+    "answer": "B"
+  },
+  {
+    "question": "The famous opera 'The Marriage of Figaro' was composed by...",
+    "A": "Verdi",
+    "B": "Puccini",
+    "C": "Mozart",
+    "D": "Wagner",
+    "answer": "C"
+  },
+  {
+    "question": "What is the largest country in the world by land area?",
+    "A": "China",
+    "B": "Canada",
+    "C": "Russia",
+    "D": "United States",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an example of a renewable energy source?",
+    "A": "Coal",
+    "B": "Natural Gas",
+    "C": "Solar Power",
+    "D": "Petroleum",
+    "answer": "C"
+  },
+  {
+    "question": "Who is credited with discovering the law of gravity after an apple fell from a tree?",
+    "A": "Galileo Galilei",
+    "B": "Nikola Tesla",
+    "C": "Isaac Newton",
+    "D": "Albert Einstein",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Blue Mosque' is a famous landmark located in which city?",
+    "A": "Cairo",
+    "B": "Marrakesh",
+    "C": "Istanbul",
+    "D": "Jerusalem",
+    "answer": "C"
+  },
+  {
+    "question": "Which American President delivered the 'Gettysburg Address'?",
+    "A": "George Washington",
+    "B": "Theodore Roosevelt",
+    "C": "Abraham Lincoln",
+    "D": "Franklin D. Roosevelt",
+    "answer": "C"
+  },
+  {
+    "question": "The primary purpose of the 'Panama Canal' is to connect which two bodies of water?",
+    "A": "Atlantic Ocean and Pacific Ocean",
+    "B": "Caribbean Sea and Gulf of Mexico",
+    "C": "Pacific Ocean and Indian Ocean",
+    "D": "Red Sea and Mediterranean Sea",
+    "answer": "A"
+  },
+  {
+    "question": "The process of a solid turning directly into a gas without passing through the liquid state is called...",
+    "A": "Evaporation",
+    "B": "Condensation",
+    "C": "Sublimation",
+    "D": "Deposition",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous novel starts with the line: 'Call me Ishmael.'?",
+    "A": "The Great Gatsby",
+    "B": "Moby Dick",
+    "C": "Wuthering Heights",
+    "D": "The Catcher in the Rye",
+    "answer": "B"
+  },
+  {
+    "question": "Which programming language is commonly used for developing Android applications?",
+    "A": "Python",
+    "B": "C++",
+    "C": "Java/Kotlin",
+    "D": "HTML",
+    "answer": "C"
+  },
+  {
+    "question": "In which city is the headquarters of the United Nations (UN) located?",
+    "A": "Geneva",
+    "B": "Paris",
+    "C": "New York City",
+    "D": "London",
+    "answer": "C"
+  },
+  {
+    "question": "The speed of sound is faster in which medium?",
+    "A": "Air",
+    "B": "Water",
+    "C": "Steel",
+    "D": "Vacuum",
+    "answer": "C"
+  },
+  {
+    "question": "Which former heavyweight boxing champion was known as 'The Greatest'?",
+    "A": "Mike Tyson",
+    "B": "Joe Frazier",
+    "C": "Muhammad Ali",
+    "D": "George Foreman",
+    "answer": "C"
+  },
+  {
+    "question": "What is the collective name for the four largest moons of Jupiter (Io, Europa, Ganymede, and Callisto)?",
+    "A": "Jovian Moons",
+    "B": "Galilean Moons",
+    "C": "Asteroid Moons",
+    "D": "Triton Moons",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize in two different fields (Physics and Chemistry)?",
+    "A": "Marie Curie",
+    "B": "Dorothy Hodgkin",
+    "C": "Rosalind Franklin",
+    "D": "Irene Joliot-Curie",
+    "answer": "A"
+  },
+  {
+    "question": "In the game of chess, which piece can move in an 'L' shape?",
+    "A": "Rook",
+    "B": "Bishop",
+    "C": "Knight",
+    "D": "Queen",
+    "answer": "C"
+  },
+  {
+    "question": "Which ancient wonder was a lighthouse built on the island of Pharos?",
+    "A": "Statue of Zeus",
+    "B": "Hanging Gardens of Babylon",
+    "C": "Colossus of Rhodes",
+    "D": "Lighthouse of Alexandria",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of volcano is known for its broad, gently sloping cone built by layers of lava (e.g., Mauna Loa)?",
+    "A": "Composite Volcano (Stratovolcano)",
+    "B": "Cinder Cone",
+    "C": "Shield Volcano",
+    "D": "Lava Dome",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Panda' bear is native to which country?",
+    "A": "India",
+    "B": "Japan",
+    "C": "China",
+    "D": "Nepal",
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary function of the cerebellum in the human brain?",
+    "A": "Emotion and memory",
+    "B": "Vision and hearing",
+    "C": "Coordination and balance",
+    "D": "Speech and language",
+    "answer": "C"
+  },
+  {
+    "question": "Which US President oversaw the end of the Cold War and the dissolution of the Soviet Union?",
+    "A": "Jimmy Carter",
+    "B": "Ronald Reagan",
+    "C": "George H.W. Bush",
+    "D": "Bill Clinton",
+    "answer": "C"
+  },
+  {
+    "question": "The term 'blog' is a shortened version of which phrase?",
+    "A": "Browser Log",
+    "B": "Weblog",
+    "C": "Binary Log",
+    "D": "Board Log",
+    "answer": "B"
+  },
+  {
+    "question": "The literary device of using an object or idea to represent another is called...",
+    "A": "Metaphor",
+    "B": "Simile",
+    "C": "Symbolism",
+    "D": "Alliteration",
+    "answer": "C"
+  },
+  {
+    "question": "Which body of water separates Africa and Europe?",
+    "A": "Suez Canal",
+    "B": "Gibraltar Strait",
+    "C": "Red Sea",
+    "D": "English Channel",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the smallest planet in our solar system?",
+    "A": "Mars",
+    "B": "Venus",
+    "C": "Mercury",
+    "D": "Pluto",
+    "answer": "C"
+  },
+  {
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "A": "Beethoven",
+    "B": "Mozart",
+    "C": "Handel",
+    "D": "Haydn",
+    "answer": "B"
+  },
+  {
+    "question": "The process of heating a liquid to kill bacteria and then cooling it down is called...",
+    "A": "Fermentation",
+    "B": "Pasteurization",
+    "C": "Distillation",
+    "D": "Filtration",
+    "answer": "B"
+  },
+  {
+    "question": "Which ancient civilization developed the concept of zero?",
+    "A": "Greeks",
+    "B": "Romans",
+    "C": "Mayans and Indians",
+    "D": "Egyptians",
+    "answer": "C"
+  },
+  {
+    "question": "The currency of Japan is the...",
+    "A": "Yuan",
+    "B": "Won",
+    "C": "Yen",
+    "D": "Ruble",
+    "answer": "C"
+  },
+  {
+    "question": "In tennis, what is the term for a score of $40-40$?",
+    "A": "Advantage",
+    "B": "Deuce",
+    "C": "Game point",
+    "D": "Set point",
+    "answer": "B"
+  },
+  {
+    "question": "Who is the author of 'The Metamorphosis'?",
+    "A": "Albert Camus",
+    "B": "Franz Kafka",
+    "C": "Fyodor Dostoevsky",
+    "D": "James Joyce",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous physicist proposed the 'laws of motion' and 'universal gravitation'?",
+    "A": "Albert Einstein",
+    "B": "Galileo Galilei",
+    "C": "Isaac Newton",
+    "D": "Max Planck",
+    "answer": "C"
+  },
+  {
+    "question": "The historical period known as the 'Age of Enlightenment' primarily took place in which century?",
+    "A": "16th century",
+    "B": "17th century",
+    "C": "18th century",
+    "D": "19th century",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process called when a moon or planet passes into the shadow of another body?",
+    "A": "Transit",
+    "B": "Opposition",
+    "C": "Eclipse",
+    "D": "Occultation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of these gases is the most abundant in the atmosphere of Venus?",
+    "A": "Nitrogen",
+    "B": "Oxygen",
+    "C": "Carbon Dioxide",
+    "D": "Methane",
+    "answer": "C"
+  },
+  {
+    "question": "The capital city of Canada is...",
+    "A": "Toronto",
+    "B": "Vancouver",
+    "C": "Montreal",
+    "D": "Ottawa",
+    "answer": "D"
+  },
+  {
+    "question": "Who famously broke the sound barrier in 1947?",
+    "A": "Neil Armstrong",
+    "B": "Chuck Yeager",
+    "C": "Yuri Gagarin",
+    "D": "John Glenn",
+    "answer": "B"
+  },
+  {
+    "question": "The architectural style characterized by pointed arches, rib vaults, and flying buttresses is...",
+    "A": "Romanesque",
+    "B": "Gothic",
+    "C": "Baroque",
+    "D": "Renaissance",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Ring of Fire' is a major area in the basin of which ocean, known for frequent earthquakes and volcanic eruptions?",
+    "A": "Atlantic Ocean",
+    "B": "Indian Ocean",
+    "C": "Arctic Ocean",
+    "D": "Pacific Ocean",
+    "answer": "D"
+  },
+  {
+    "question": "In which sport is the 'Davis Cup' contested?",
+    "A": "Golf",
+    "B": "Rugby",
+    "C": "Tennis",
+    "D": "Polo",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous scientist discovered the structure of the DNA double helix, along with Francis Crick and Maurice Wilkins?",
+    "A": "Linus Pauling",
+    "B": "James Watson",
+    "C": "Gregor Mendel",
+    "D": "Charles Darwin",
+    "answer": "B"
+  },
+  {
+    "question": "The largest freshwater lake by surface area in the world is...",
+    "A": "Lake Huron",
+    "B": "Lake Victoria",
+    "C": "Lake Superior",
+    "D": "Lake Baikal",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the author of the philosophical work 'The Republic'?",
+    "A": "Socrates",
+    "B": "Aristotle",
+    "C": "Plato",
+    "D": "Diogenes",
+    "answer": "C"
+  },
+  {
+    "question": "The historical event known as the 'Boston Tea Party' took place in which country?",
+    "A": "Canada",
+    "B": "United States (pre-independence)",
+    "C": "England",
+    "D": "France",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for Helium?",
+    "A": "He",
+    "B": "H",
+    "C": "Hi",
+    "D": "Ha",
+    "answer": "A"
+  },
+  {
+    "question": "The official language of Brazil is...",
+    "A": "Spanish",
+    "B": "French",
+    "C": "Portuguese",
+    "D": "English",
+    "answer": "C"
+  },
+  {
+    "question": "In which movie genre would you typically find terms like 'mise-en-scène' and 'cinematography'?",
+    "A": "Music",
+    "B": "Literature",
+    "C": "Film",
+    "D": "Theatre",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "A": "Athens",
+    "B": "Jerusalem",
+    "C": "Rome",
+    "D": "Cairo",
+    "answer": "C"
+  },
+  {
+    "question": "The first major European explorer to reach the Pacific Ocean from the New World was...",
+    "A": "Christopher Columbus",
+    "B": "Vasco Núñez de Balboa",
+    "C": "Hernán Cortés",
+    "D": "Francisco Pizarro",
+    "answer": "B"
+  },
+  {
+    "question": "The concept of 'supply and demand' is a fundamental principle of which field of study?",
+    "A": "Sociology",
+    "B": "Physics",
+    "C": "Economics",
+    "D": "Psychology",
+    "answer": "C"
+  },
+  {
+    "question": "Which continent is the most sparsely populated?",
+    "A": "Asia",
+    "B": "Africa",
+    "C": "Antarctica",
+    "D": "Australia",
+    "answer": "C"
+  },
+  {
+    "question": "In a computer, what does 'CPU' stand for?",
+    "A": "Central Processing Unit",
+    "B": "Computer Power Utility",
+    "C": "Central Program Update",
+    "D": "Critical Performance Unit",
+    "answer": "A"
+  },
+  {
+    "question": "Which famous battle in 1815 marked the final defeat of Napoleon Bonaparte?",
+    "A": "Battle of Austerlitz",
+    "B": "Battle of Trafalgar",
+    "C": "Battle of Waterloo",
+    "D": "Battle of Leipzig",
+    "answer": "C"
+  },
+  {
+    "question": "The smallest unit of an element that retains the characteristics of that element is an...",
+    "A": "Molecule",
+    "B": "Compound",
+    "C": "Atom",
+    "D": "Cell",
+    "answer": "C"
+  },
+  {
+    "question": "Who directed the film 'Pulp Fiction'?",
+    "A": "Steven Spielberg",
+    "B": "Martin Scorsese",
+    "C": "Quentin Tarantino",
+    "D": "Alfred Hitchcock",
+    "answer": "C"
+  },
+  {
+    "question": "Which animal is the primary host for the rabies virus?",
+    "A": "Cat",
+    "B": "Dog",
+    "C": "Bat",
+    "D": "Bird",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Iron Curtain' was a term used during the Cold War to describe the boundary dividing...",
+    "A": "North and South Korea",
+    "B": "East and West Germany",
+    "C": "Soviet-bloc and Western-bloc countries",
+    "D": "China and Taiwan",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is the largest island nation in the world (by area)?",
+    "A": "Greenland",
+    "B": "Indonesia",
+    "C": "Madagascar",
+    "D": "Japan",
+    "answer": "B"
+  },
+  {
+    "question": "The official residence of the British Prime Minister is located at...",
+    "A": "Buckingham Palace",
+    "B": "10 Downing Street",
+    "C": "Westminster Abbey",
+    "D": "Windsor Castle",
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary product created during the process of photosynthesis?",
+    "A": "Carbon Dioxide",
+    "B": "Water",
+    "C": "Glucose (Sugar)",
+    "D": "Chlorophyll",
+    "answer": "C"
+  },
+  {
+    "question": "Which novel features the famous line: 'It was the best of times, it was the worst of times'?",
+    "A": "Great Expectations",
+    "B": "A Tale of Two Cities",
+    "C": "Oliver Twist",
+    "D": "David Copperfield",
+    "answer": "B"
+  },
+  {
+    "question": "The historical event known as the 'Reign of Terror' occurred during which major revolution?",
+    "A": "American Revolution",
+    "B": "Russian Revolution",
+    "C": "French Revolution",
+    "D": "Glorious Revolution",
+    "answer": "C"
+  },
+  {
+    "question": "What is the collective name for the three primary colours of pigment (Subtractive colours)?",
+    "A": "Red, Green, Blue",
+    "B": "Cyan, Magenta, Yellow",
+    "C": "Red, Yellow, Blue",
+    "D": "Orange, Green, Purple",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Sahara Desert' is growing primarily due to which phenomenon?",
+    "A": "Global Warming",
+    "B": "Desertification",
+    "C": "Volcanic Activity",
+    "D": "Coastal Erosion",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following bodies in our solar system is not considered a planet?",
+    "A": "Saturn",
+    "B": "Neptune",
+    "C": "Pluto",
+    "D": "Uranus",
+    "answer": "C"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "A": "Leonardo da Vinci",
+    "B": "Raphael",
+    "C": "Michelangelo",
+    "D": "Donatello",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical symbol for Iron?",
+    "A": "I",
+    "B": "Ir",
+    "C": "Fe",
+    "D": "In",
+    "answer": "C"
+  },
+  {
+    "question": "Which body of water is located between Europe and North America?",
+    "A": "Pacific Ocean",
+    "B": "Indian Ocean",
+    "C": "Atlantic Ocean",
+    "D": "Arctic Ocean",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Leaning Tower of Pisa' is located in which country?",
+    "A": "France",
+    "B": "Spain",
+    "C": "Italy",
+    "D": "Germany",
+    "answer": "C"
+  },
+  {
+    "question": "In which sport would you use the term 'birdie', 'eagle', and 'albatross'?",
+    "A": "Tennis",
+    "B": "Golf",
+    "C": "Cricket",
+    "D": "Archery",
+    "answer": "B"
+  },
+  {
+    "question": "Which Russian author wrote 'Crime and Punishment'?",
+    "A": "Leo Tolstoy",
+    "B": "Anton Chekhov",
+    "C": "Fyodor Dostoevsky",
+    "D": "Ivan Turgenev",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of generating electricity by burning coal or gas called?",
+    "A": "Hydroelectric Power",
+    "B": "Fossil Fuel Combustion",
+    "C": "Nuclear Fission",
+    "D": "Geothermal Energy",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Cold War' primarily involved ideological conflict between which two systems?",
+    "A": "Monarchy and Democracy",
+    "B": "Communism and Capitalism",
+    "C": "Fascism and Liberalism",
+    "D": "Theocracy and Socialism",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an amphibian?",
+    "A": "Lizard",
+    "B": "Snake",
+    "C": "Frog",
+    "D": "Crocodile",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous physicist is known for the equation $E = mc^2$?",
+    "A": "Isaac Newton",
+    "B": "Albert Einstein",
+    "C": "Niels Bohr",
+    "D": "Max Planck",
+    "answer": "B"
+  },
+  {
+    "question": "The capital city of Brazil is...",
+    "A": "Rio de Janeiro",
+    "B": "São Paulo",
+    "C": "Brasília",
+    "D": "Buenos Aires",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a severe contraction of the heart muscle that results in a lack of blood flow?",
+    "A": "Stroke",
+    "B": "Cardiac Arrest",
+    "C": "Arrhythmia",
+    "D": "Angina",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous structure was built to honour the Roman goddess Vesta?",
+    "A": "Pantheon",
+    "B": "Colosseum",
+    "C": "Parthenon",
+    "D": "Temple of Vesta (specifically)",
+    "answer": "D"
+  },
+  {
+    "question": "Who was the founder of the Mughal Empire in India?",
+    "A": "Akbar",
+    "B": "Humayun",
+    "C": "Babur",
+    "D": "Shah Jahan",
+    "answer": "C"
+  },
+  {
+    "question": "In chemistry, what does 'pH' stand for?",
+    "A": "Partial Heat",
+    "B": "Potential of Hydrogen",
+    "C": "Pure Hydroxide",
+    "D": "Proton H-level",
+    "answer": "B"
+  },
+  {
+    "question": "Which continent is crossed by both the Equator and the Tropic of Capricorn?",
+    "A": "Asia",
+    "B": "North America",
+    "C": "Africa",
+    "D": "Europe",
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote the play 'Hamlet'?",
+    "A": "Christopher Marlowe",
+    "B": "Ben Jonson",
+    "C": "William Shakespeare",
+    "D": "Oscar Wilde",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Green Revolution' primarily focused on increasing production of which type of goods?",
+    "A": "Industrial Products",
+    "B": "Military Equipment",
+    "C": "Agricultural Products (Food Grains)",
+    "D": "Consumer Electronics",
+    "answer": "C"
+  },
+  {
+    "question": "In which part of the human body is the 'cochlea' located?",
+    "A": "Eye",
+    "B": "Ear",
+    "C": "Nose",
+    "D": "Throat",
+    "answer": "B"
+  },
+  {
+    "question": "Which world leader was assassinated in Dallas, Texas, in 1963?",
+    "A": "Martin Luther King Jr.",
+    "B": "John F. Kennedy",
+    "C": "Abraham Lincoln",
+    "D": "Robert F. Kennedy",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Internet' primarily uses which protocol suite for communication?",
+    "A": "HTTP",
+    "B": "TCP/IP",
+    "C": "FTP",
+    "D": "SMTP",
+    "answer": "B"
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "A": "Tennis",
+    "B": "Badminton",
+    "C": "Squash",
+    "D": "Volleyball",
+    "answer": "B"
+  },
+  {
+    "question": "The historical figure 'Joan of Arc' was a national heroine of which country?",
+    "A": "England",
+    "B": "Spain",
+    "C": "France",
+    "D": "Italy",
+    "answer": "C"
+  },
+  {
+    "question": "Which geological process is primarily responsible for the formation of mountains like the Himalayas?",
+    "A": "Volcanism",
+    "B": "Erosion",
+    "C": "Plate Tectonics (Collision)",
+    "D": "Weathering",
+    "answer": "C"
+  },
+  {
+    "question": "What is the common name for the compound ethanol?",
+    "A": "Table Sugar",
+    "B": "Rubbing Alcohol",
+    "C": "Drinking Alcohol",
+    "D": "Vinegar",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous museum in Paris is home to the Mona Lisa?",
+    "A": "Musée d'Orsay",
+    "B": "Louvre Museum",
+    "C": "Centre Pompidou",
+    "D": "Musée Rodin",
+    "answer": "B"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "A": "Thomas Edison",
+    "B": "Alexander Graham Bell",
+    "C": "Nikola Tesla",
+    "D": "Guglielmo Marconi",
+    "answer": "B"
+  },
+  {
+    "question": "Which country is the largest exporter of crude oil in the world?",
+    "A": "Russia",
+    "B": "United States",
+    "C": "Saudi Arabia",
+    "D": "Iran",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a line of poetry that does not end with a grammatical break or punctuation?",
+    "A": "Caesura",
+    "B": "Enjambment",
+    "C": "Meter",
+    "D": "Stanza",
+    "answer": "B"
+  },
+  {
+    "question": "The famous clock tower 'Big Ben' is located next to which governmental building in London?",
+    "A": "Buckingham Palace",
+    "B": "Houses of Parliament",
+    "C": "Tower of London",
+    "D": "Westminster Abbey",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a nocturnal animal?",
+    "A": "Squirrel",
+    "B": "Rabbit",
+    "C": "Owl",
+    "D": "Deer",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the most destructive type of nuclear reaction (used in hydrogen bombs)?",
+    "A": "Nuclear Fission",
+    "B": "Nuclear Fusion",
+    "C": "Chain Reaction",
+    "D": "Radioactive Decay",
+    "answer": "B"
+  },
+  {
+    "question": "Which body of water is also known as 'The Salt Sea'?",
+    "A": "Black Sea",
+    "B": "Caspian Sea",
+    "C": "Dead Sea",
+    "D": "Aral Sea",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first person to sail around the world (his expedition, though he died midway)?",
+    "A": "Vasco da Gama",
+    "B": "James Cook",
+    "C": "Ferdinand Magellan",
+    "D": "Francis Drake",
+    "answer": "C"
+  },
+  {
+    "question": "The currency of Russia is the...",
+    "A": "Yuan",
+    "B": "Ruble",
+    "C": "Dinar",
+    "D": "Zloty",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Hanging Gardens of Babylon' were supposedly located in which modern country?",
+    "A": "Egypt",
+    "B": "Turkey",
+    "C": "Iraq",
+    "D": "Iran",
+    "answer": "C"
+  },
+  {
+    "question": "What type of scientist studies the properties of rocks?",
+    "A": "Biologist",
+    "B": "Meteorologist",
+    "C": "Petrologist",
+    "D": "Astronomer",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous children's book character lives in a forest with friends like Piglet and Eeyore?",
+    "A": "Paddington Bear",
+    "B": "Winnie-the-Pooh",
+    "C": "Peter Rabbit",
+    "D": "Curious George",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Kyoto Protocol' is an international treaty aimed at reducing...",
+    "A": "Deforestation",
+    "B": "Greenhouse gas emissions",
+    "C": "Nuclear weapons proliferation",
+    "D": "Illegal drug trade",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is the main component of diamonds?",
+    "A": "Silicon",
+    "B": "Oxygen",
+    "C": "Carbon",
+    "D": "Iron",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Tour de France' is a famous competition in which sport?",
+    "A": "Running",
+    "B": "Cycling",
+    "C": "Motor Racing",
+    "D": "Rowing",
+    "answer": "B"
+  },
+  {
+    "question": "Which historical figure led the first successful revolt of enslaved people in the Western Hemisphere, leading to Haiti's independence?",
+    "A": "Simon Bolivar",
+    "B": "Toussaint Louverture",
+    "C": "Fidel Castro",
+    "D": "Che Guevara",
+    "answer": "B"
+  },
+  {
+    "question": "In the human body, the 'trachea' is also commonly known as the...",
+    "A": "Food pipe",
+    "B": "Windpipe",
+    "C": "Voice box",
+    "D": "Gullet",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following planets is known for having a prominent system of rings?",
+    "A": "Jupiter",
+    "B": "Mars",
+    "C": "Saturn",
+    "D": "Uranus",
+    "answer": "C"
+  },
+  {
+    "question": "The famous poem 'The Raven' was written by which American author?",
+    "A": "Walt Whitman",
+    "B": "Edgar Allan Poe",
+    "C": "Robert Frost",
+    "D": "Emily Dickinson",
+    "answer": "B"
+  },
+  {
+    "question": "Which ancient civilization developed the first known system of writing called 'cuneiform'?",
+    "A": "Egyptians",
+    "B": "Greeks",
+    "C": "Sumerians (Mesopotamia)",
+    "D": "Romans",
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "A": "Auckland",
+    "B": "Christchurch",
+    "C": "Wellington",
+    "D": "Queenstown",
+    "answer": "C"
+  },
+  {
+    "question": "Which energy source is generated by harnessing the heat from the Earth's interior?",
+    "A": "Tidal Power",
+    "B": "Geothermal Energy",
+    "C": "Hydroelectric Power",
+    "D": "Wind Power",
+    "answer": "B"
+  },
+  {
+    "question": "In which major city is the 'Brandenburg Gate' located?",
+    "A": "Vienna",
+    "B": "Prague",
+    "C": "Berlin",
+    "D": "Munich",
+    "answer": "C"
+  },
+  {
+    "question": "Who is credited with discovering America in 1492?",
+    "A": "Amerigo Vespucci",
+    "B": "Ferdinand Magellan",
+    "C": "Christopher Columbus",
+    "D": "James Cook",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical symbol for Silver?",
+    "A": "Si",
+    "B": "Au",
+    "C": "Ag",
+    "D": "S",
+    "answer": "C"
+  },
+  {
+    "question": "The measurement of the loudness of sound is in which unit?",
+    "A": "Hertz",
+    "B": "Watt",
+    "C": "Decibel",
+    "D": "Ohm",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous work of art depicts God giving life to Adam?",
+    "A": "The Last Supper",
+    "B": "The Creation of Adam",
+    "C": "The Birth of Venus",
+    "D": "The Scream",
+    "answer": "B"
+  },
+  {
+    "question": "In basketball, how many points is a shot worth if it is made from beyond the arc?",
+    "A": "1 point",
+    "B": "2 points",
+    "C": "3 points",
+    "D": "4 points",
+    "answer": "C"
+  },
+  {
+    "question": "Which desert is the largest hot desert in the world?",
+    "A": "Gobi Desert",
+    "B": "Arabian Desert",
+    "C": "Kalahari Desert",
+    "D": "Sahara Desert",
+    "answer": "D"
+  },
+  {
+    "question": "The 'D-Day' landings during WWII took place in which region of France?",
+    "A": "Brittany",
+    "B": "Normandy",
+    "C": "Provence",
+    "D": "Aquitaine",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote the classic novel 'The Great Gatsby'?",
+    "A": "Ernest Hemingway",
+    "B": "F. Scott Fitzgerald",
+    "C": "John Steinbeck",
+    "D": "William Faulkner",
+    "answer": "B"
+  },
+  {
+    "question": "What is the layer of gas that surrounds the Earth called?",
+    "A": "Hydrosphere",
+    "B": "Lithosphere",
+    "C": "Atmosphere",
+    "D": "Biosphere",
+    "answer": "C"
+  },
+  {
+    "question": "The currency of South Korea is the...",
+    "A": "Yen",
+    "B": "Yuan",
+    "C": "Won",
+    "D": "Dollar",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of wave is used in radar communication?",
+    "A": "Sound Waves",
+    "B": "X-rays",
+    "C": "Microwaves",
+    "D": "Gamma Rays",
+    "answer": "C"
+  },
+  {
+    "question": "In which city is the famous 'Red Square' located?",
+    "A": "St. Petersburg",
+    "B": "Beijing",
+    "C": "Moscow",
+    "D": "Kiev",
+    "answer": "C"
+  },
+  {
+    "question": "Which metal is the key component in the production of stainless steel?",
+    "A": "Copper",
+    "B": "Aluminum",
+    "C": "Chromium",
+    "D": "Lead",
+    "answer": "C"
+  },
+  {
+    "question": "Who invented the light bulb (commercially viable)?",
+    "A": "Nikola Tesla",
+    "B": "Guglielmo Marconi",
+    "C": "Thomas Edison",
+    "D": "Alexander Graham Bell",
+    "answer": "C"
+  },
+  {
+    "question": "The world's smallest continent by land area is...",
+    "A": "Europe",
+    "B": "Australia (Oceania)",
+    "C": "Antarctica",
+    "D": "South America",
+    "answer": "B"
+  },
+  {
+    "question": "Which musical instrument is also known as the 'harmonica'?",
+    "A": "Accordion",
+    "B": "Mouth Organ",
+    "C": "Ukulele",
+    "D": "Cello",
+    "answer": "B"
+  },
+  {
+    "question": "The historical figure 'Cleopatra' was the last active ruler of the Ptolemaic Kingdom of which place?",
+    "A": "Greece",
+    "B": "Syria",
+    "C": "Egypt",
+    "D": "Rome",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon called when the Moon passes directly between the Sun and Earth?",
+    "A": "Lunar Eclipse",
+    "B": "Solar Eclipse",
+    "C": "Total Darkness",
+    "D": "Lunar Transit",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is found in all organic compounds?",
+    "A": "Oxygen",
+    "B": "Hydrogen",
+    "C": "Nitrogen",
+    "D": "Carbon",
+    "answer": "D"
+  },
+  {
+    "question": "Who wrote the children's book 'Where the Wild Things Are'?",
+    "A": "Dr. Seuss",
+    "B": "Maurice Sendak",
+    "C": "A.A. Milne",
+    "D": "Beatrix Potter",
+    "answer": "B"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "A": "1985",
+    "B": "1989",
+    "C": "1991",
+    "D": "1995",
+    "answer": "B"
+  },
+  {
+    "question": "The term 'Hat-trick' in sports originated from which game?",
+    "A": "Cricket",
+    "B": "Football (Soccer)",
+    "C": "Hockey",
+    "D": "Baseball",
+    "answer": "A"
+  },
+  {
+    "question": "Which country is the largest producer of natural rubber?",
+    "A": "India",
+    "B": "China",
+    "C": "Thailand",
+    "D": "Indonesia",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the membrane that protects the brain and spinal cord?",
+    "A": "Epidermis",
+    "B": "Dura Mater (Meninges)",
+    "C": "Cartilage",
+    "D": "Pleura",
+    "answer": "B"
+  },
+  {
+    "question": "Which sea is considered the saltiest natural body of water in the world?",
+    "A": "Red Sea",
+    "B": "Caspian Sea",
+    "C": "Dead Sea",
+    "D": "Mediterranean Sea",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first person to orbit the Earth?",
+    "A": "Neil Armstrong",
+    "B": "Alan Shepard",
+    "C": "Yuri Gagarin",
+    "D": "John Glenn",
+    "answer": "C"
+  },
+  {
+    "question": "The famous novel 'Moby Dick' is about the search for which animal?",
+    "A": "Giant Squid",
+    "B": "Sperm Whale",
+    "C": "Great White Shark",
+    "D": "Octopus",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the ancient trade route that connected East and West?",
+    "A": "Spice Route",
+    "B": "Tea Route",
+    "C": "Silk Road",
+    "D": "Amber Road",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is known as the 'City of Love'?",
+    "A": "Rome",
+    "B": "Venice",
+    "C": "Paris",
+    "D": "London",
+    "answer": "C"
+  },
+  {
+    "question": "The process of using light energy to synthesize food is called...",
+    "A": "Chemosynthesis",
+    "B": "Photosynthesis",
+    "C": "Respiration",
+    "D": "Transpiration",
+    "answer": "B"
+  },
+  {
+    "question": "Which country has the world's longest coastline?",
+    "A": "Russia",
+    "B": "United States",
+    "C": "Canada",
+    "D": "Australia",
+    "answer": "C"
+  },
+  {
+    "question": "Who developed the first polio vaccine?",
+    "A": "Louis Pasteur",
+    "B": "Jonas Salk",
+    "C": "Edward Jenner",
+    "D": "Alexander Fleming",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Taj Mahal' is located on the bank of which river?",
+    "A": "Ganges",
+    "B": "Yamuna",
+    "C": "Narmada",
+    "D": "Brahmaputra",
+    "answer": "B"
+  },
+  {
+    "question": "In which sport would you hear the term 'Offside'?",
+    "A": "Basketball",
+    "B": "Baseball",
+    "C": "Football (Soccer)",
+    "D": "Tennis",
+    "answer": "C"
+  },
+  {
+    "question": "What is the largest moon of Saturn?",
+    "A": "Io",
+    "B": "Europa",
+    "C": "Titan",
+    "D": "Ganymede",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Renaissance' period started in which country?",
+    "A": "France",
+    "B": "England",
+    "C": "Italy",
+    "D": "Germany",
+    "answer": "C"
+  },
+  {
+    "question": "Which continent contains the most countries?",
+    "A": "Asia",
+    "B": "Europe",
+    "C": "Africa",
+    "D": "South America",
+    "answer": "C"
+  },
+  {
+    "question": "Who is the author of the 'Harry Potter' series?",
+    "A": "J. R. R. Tolkien",
+    "B": "J. K. Rowling",
+    "C": "C. S. Lewis",
+    "D": "Philip Pullman",
+    "answer": "B"
+  },
+  {
+    "question": "In which year did the First World War begin?",
+    "A": "1910",
+    "B": "1914",
+    "C": "1918",
+    "D": "1920",
+    "answer": "B"
+  },
+  {
+    "question": "What is the function of red blood cells in the body?",
+    "A": "Fighting infection",
+    "B": "Clotting blood",
+    "C": "Carrying oxygen",
+    "D": "Regulating temperature",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Machu Picchu' historical site is located in which mountain range?",
+    "A": "Himalayas",
+    "B": "Alps",
+    "C": "Andes",
+    "D": "Rocky Mountains",
+    "answer": "C"
+  },
+  {
+    "question": "Which instrument is used to measure the current in an electrical circuit?",
+    "A": "Voltmeter",
+    "B": "Ammeter",
+    "C": "Ohmmeter",
+    "D": "Barometer",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an example of a noble gas?",
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Neon",
+    "D": "Chlorine",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "A": "Joseph Stalin",
+    "B": "Mikhail Gorbachev",
+    "C": "Nikita Khrushchev",
+    "D": "Vladimir Lenin",
+    "answer": "C"
+  },
+  {
+    "question": "The famous literary character 'Dracula' was created by which author?",
+    "A": "Mary Shelley",
+    "B": "Edgar Allan Poe",
+    "C": "Bram Stoker",
+    "D": "H.G. Wells",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is the origin of the martial art 'Karate'?",
+    "A": "China",
+    "B": "South Korea",
+    "C": "Japan",
+    "D": "Thailand",
+    "answer": "C"
+  },
+  {
+    "question": "What is the collective term for a group of crows?",
+    "A": "Herd",
+    "B": "Flock",
+    "C": "Murder",
+    "D": "Covey",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Louvre Museum' is located in which city?",
+    "A": "London",
+    "B": "Rome",
+    "C": "Paris",
+    "D": "Madrid",
+    "answer": "C"
+  },
+  {
+    "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+    "A": "Troposphere",
+    "B": "Stratosphere",
+    "C": "Mesosphere",
+    "D": "Thermosphere",
+    "answer": "B"
+  },
+  {
+    "question": "Who invented the process of vulcanization for rubber?",
+    "A": "Thomas Edison",
+    "B": "Henry Ford",
+    "C": "Charles Goodyear",
+    "D": "Nikola Tesla",
+    "answer": "C"
+  },
+  {
+    "question": "Which ancient city was famously destroyed by the eruption of Mount Vesuvius in 79 AD?",
+    "A": "Athens",
+    "B": "Pompeii",
+    "C": "Troy",
+    "D": "Carthage",
+    "answer": "B"
+  },
+  {
+    "question": "The primary component of the Sun is...",
+    "A": "Oxygen",
+    "B": "Carbon Dioxide",
+    "C": "Hydrogen and Helium",
+    "D": "Iron and Nickel",
+    "answer": "C"
+  },
+  {
+    "question": "In the human body, where is 'bile' produced?",
+    "A": "Stomach",
+    "B": "Kidney",
+    "C": "Liver",
+    "D": "Pancreas",
+    "answer": "C"
+  },
+  {
+    "question": "Which novel by George Orwell depicts a dystopian future ruled by 'Big Brother'?",
+    "A": "Animal Farm",
+    "B": "Brave New World",
+    "C": "1984",
+    "D": "Fahrenheit 451",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Himalayas' are a classic example of which type of mountain?",
+    "A": "Volcanic Mountains",
+    "B": "Fault-Block Mountains",
+    "C": "Fold Mountains",
+    "D": "Erosional Mountains",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first female Prime Minister of India?",
+    "A": "Sonia Gandhi",
+    "B": "Pratibha Patil",
+    "C": "Indira Gandhi",
+    "D": "Sarojini Naidu",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of splitting an atom's nucleus into smaller parts called?",
+    "A": "Nuclear Fusion",
+    "B": "Nuclear Fission",
+    "C": "Sublimation",
+    "D": "Oxidation",
+    "answer": "B"
+  },
+  {
+    "question": "The term 'Renaissance Man' is often used to describe which famous artist/inventor?",
+    "A": "Michelangelo",
+    "B": "Raphael",
+    "C": "Leonardo da Vinci",
+    "D": "Donatello",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is known as the 'Venice of the East'?",
+    "A": "Tokyo",
+    "B": "Bangkok",
+    "C": "St. Petersburg",
+    "D": "Udaipur",
+    "answer": "B"
+  },
+  {
+    "question": "In which sport is the 'Stanley Cup' awarded?",
+    "A": "Basketball",
+    "B": "Ice Hockey",
+    "C": "Baseball",
+    "D": "Soccer",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Declaration of Independence' for the United States was signed in which year?",
+    "A": "1776",
+    "B": "1783",
+    "C": "1789",
+    "D": "1801",
+    "answer": "A"
+  },
+  {
+    "question": "What is the unit of electric power?",
+    "A": "Volt",
+    "B": "Ampere",
+    "C": "Ohm",
+    "D": "Watt",
+    "answer": "D"
+  },
+  {
+    "question": "Which novel features the character 'Holden Caulfield'?",
+    "A": "Of Mice and Men",
+    "B": "The Catcher in the Rye",
+    "C": "Lord of the Flies",
+    "D": "To Kill a Mockingbird",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Maginot Line' was a defensive line built by which country before WWII?",
+    "A": "Germany",
+    "B": "France",
+    "C": "United Kingdom",
+    "D": "Belgium",
+    "answer": "B"
+  },
+  {
+    "question": "Which body of water is the largest gulf in the world?",
+    "A": "Gulf of California",
+    "B": "Persian Gulf",
+    "C": "Gulf of Mexico",
+    "D": "Gulf of Guinea",
+    "answer": "C"
+  },
+  {
+    "question": "Who composed the Brandenburg Concertos?",
+    "A": "Beethoven",
+    "B": "Handel",
+    "C": "Bach",
+    "D": "Mozart",
+    "answer": "C"
+  },
+  {
+    "question": "The smallest bone in the human body is located where?",
+    "A": "Finger",
+    "B": "Toe",
+    "C": "Ear",
+    "D": "Nose",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a type of cloud that is usually associated with thunderstorms?",
+    "A": "Cirrus",
+    "B": "Stratus",
+    "C": "Cumulonimbus",
+    "D": "Altostratus",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is the largest exporter of diamonds (by value)?",
+    "A": "Russia",
+    "B": "South Africa",
+    "C": "Botswana",
+    "D": "India",
+    "answer": "C"
+  },
+  {
+    "question": "The historical era known as the 'Victorian Era' is named after which British monarch?",
+    "A": "Queen Elizabeth I",
+    "B": "Queen Victoria",
+    "C": "King George IV",
+    "D": "King Edward VII",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a word formed from the initial letters of other words (e.g., NASA)?",
+    "A": "Acronym",
+    "B": "Homonym",
+    "C": "Cliche",
+    "D": "Euphemism",
+    "answer": "A"
+  },
+  {
+    "question": "Which famous scientist formulated the laws of thermodynamics?",
+    "A": "Isaac Newton",
+    "B": "Albert Einstein",
+    "C": "Sadi Carnot",
+    "D": "James Watt",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Terra Cotta Army' was discovered in which country?",
+    "A": "Egypt",
+    "B": "China",
+    "C": "India",
+    "D": "Greece",
+    "answer": "B"
+  },
+  {
+    "question": "Which ocean borders the west coast of Africa?",
+    "A": "Indian Ocean",
+    "B": "Pacific Ocean",
+    "C": "Atlantic Ocean",
+    "D": "Arctic Ocean",
+    "answer": "C"
+  },
+  {
+    "question": "In the sport of American football, how many points is a touchdown worth (before the extra point)?",
+    "A": "3 points",
+    "B": "6 points",
+    "C": "7 points",
+    "D": "5 points",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote the novel 'Wuthering Heights'?",
+    "A": "Jane Austen",
+    "B": "Charlotte Brontë",
+    "C": "Emily Brontë",
+    "D": "George Eliot",
+    "answer": "C"
+  },
+  {
+    "question": "The chemical element with the highest melting point is...",
+    "A": "Gold",
+    "B": "Iron",
+    "C": "Tungsten",
+    "D": "Carbon",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is known as the 'Big Apple'?",
+    "A": "Chicago",
+    "B": "Los Angeles",
+    "C": "New York City",
+    "D": "Boston",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Nuremberg Trials' were held to prosecute individuals for war crimes after which war?",
+    "A": "WWI",
+    "B": "WWII",
+    "C": "Korean War",
+    "D": "Vietnam War",
+    "answer": "B"
+  },
+  {
+    "question": "What is the collective term for a group of fish?",
+    "A": "Flock",
+    "B": "School",
+    "C": "Colony",
+    "D": "Swarm",
+    "answer": "B"
+  },
+  {
+    "question": "The musical term 'forte' (f) means to play...",
+    "A": "Softly",
+    "B": "Loudly",
+    "C": "Fast",
+    "D": "Slowly",
+    "answer": "B"
+  },
+  {
+    "question": "Which part of the cell is responsible for producing energy (ATP)?",
+    "A": "Nucleus",
+    "B": "Endoplasmic Reticulum",
+    "C": "Mitochondria",
+    "D": "Ribosome",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Colossus of Rhodes' was a statue dedicated to which Greek god?",
+    "A": "Zeus",
+    "B": "Apollo",
+    "C": "Poseidon",
+    "D": "Ares",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous scientist is known for developing the periodic table of elements?",
+    "A": "Robert Boyle",
+    "B": "Dmitri Mendeleev",
+    "C": "John Dalton",
+    "D": "Ernest Rutherford",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Great Famine' (or Great Hunger) in the 1840s severely affected which country?",
+    "A": "Germany",
+    "B": "Scotland",
+    "C": "Ireland",
+    "D": "Poland",
+    "answer": "C"
+  },
+  {
+    "question": "What is the currency of South Africa?",
+    "A": "Rand",
+    "B": "Shilling",
+    "C": "Naira",
+    "D": "Pula",
+    "answer": "A"
+  },
+  {
+    "question": "Which famous explorer's journey led to the discovery of the Hawaiian Islands for Europeans?",
+    "A": "Vasco da Gama",
+    "B": "James Cook",
+    "C": "Francis Drake",
+    "D": "Magellan",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Northern Lights' are primarily observed in which high-latitude regions?",
+    "A": "Tropical regions",
+    "B": "Equatorial regions",
+    "C": "Polar regions",
+    "D": "Desert regions",
+    "answer": "C"
+  },
+  {
+    "question": "In the game of golf, what is the term for scoring one stroke under par on a hole?",
+    "A": "Bogey",
+    "B": "Eagle",
+    "C": "Birdie",
+    "D": "Par",
+    "answer": "C"
+  },
+  {
+    "question": "The famous literary work 'Don Quixote' was written by which Spanish author?",
+    "A": "Gabriel García Márquez",
+    "B": "Jorge Luis Borges",
+    "C": "Miguel de Cervantes",
+    "D": "Pablo Neruda",
+    "answer": "C"
+  },
+  {
+    "question": "Which organ in the human body cleanses the blood and produces urine?",
+    "A": "Liver",
+    "B": "Kidney",
+    "C": "Spleen",
+    "D": "Pancreas",
+    "answer": "B"
+  },
+  {
+    "question": "Which country won the inaugural FIFA World Cup in 1930?",
+    "A": "Brazil",
+    "B": "Italy",
+    "C": "Uruguay",
+    "D": "Argentina",
+    "answer": "C"
+  },
+  {
+    "question": "In tennis, what is the term for a score of zero?",
+    "A": "Deuce",
+    "B": "Love",
+    "C": "Fault",
+    "D": "Advantage",
+    "answer": "B"
+  },
+  {
+    "question": "Which sprinter is nicknamed 'Lightning Bolt' and holds the world records for the $100m$ and $200m$ races?",
+    "A": "Carl Lewis",
+    "B": "Michael Johnson",
+    "C": "Usain Bolt",
+    "D": "Jesse Owens",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Ashes' is a famous Test cricket series played between which two nations?",
+    "A": "India and Pakistan",
+    "B": "England and Australia",
+    "C": "South Africa and New Zealand",
+    "D": "West Indies and England",
+    "answer": "B"
+  },
+  {
+    "question": "How many players are on the field for one team in a regulation soccer (football) match?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "9",
+    "answer": "B"
+  },
+  {
+    "question": "Which golfer is known as the 'Golden Bear'?",
+    "A": "Tiger Woods",
+    "B": "Jack Nicklaus",
+    "C": "Arnold Palmer",
+    "D": "Rory McIlroy",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Stanley Cup' is the championship trophy for which major North American sport?",
+    "A": "Basketball (NBA)",
+    "B": "Baseball (MLB)",
+    "C": "Ice Hockey (NHL)",
+    "D": "American Football (NFL)",
+    "answer": "C"
+  },
+  {
+    "question": "Which legendary Indian cricketer is known as the 'Master Blaster'?",
+    "A": "Kapil Dev",
+    "B": "Virat Kohli",
+    "C": "Sachin Tendulkar",
+    "D": "MS Dhoni",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Tour de France' is a multi-stage race in which sport?",
+    "A": "Running",
+    "B": "Cycling",
+    "C": "Motor Racing",
+    "D": "Rowing",
+    "answer": "B"
+  },
+  {
+    "question": "Which martial art is characterized by its emphasis on high kicks and fast movements?",
+    "A": "Judo",
+    "B": "Karate",
+    "C": "Taekwondo",
+    "D": "Aikido",
+    "answer": "C"
+  },
+  {
+    "question": "In which sport is the 'Davis Cup' awarded?",
+    "A": "Golf",
+    "B": "Polo",
+    "C": "Tennis",
+    "D": "Cricket",
+    "answer": "C"
+  },
+  {
+    "question": "What is the maximum number of players on the ice for one team in ice hockey at any given time (excluding the goalie)?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "Which player has won the most Grand Slam singles titles in men's tennis (as of late 2024)?",
+    "A": "Rafael Nadal",
+    "B": "Roger Federer",
+    "C": "Novak Djokovic",
+    "D": "Pete Sampras",
+    "answer": "C"
+  },
+  {
+    "question": "The famous horse race 'Kentucky Derby' takes place in which country?",
+    "A": "UK",
+    "B": "Australia",
+    "C": "USA",
+    "D": "France",
+    "answer": "C"
+  },
+  {
+    "question": "In baseball, what is the term for a home run hit with the bases loaded?",
+    "A": "Grand Slam",
+    "B": "Triple Play",
+    "C": "Perfect Game",
+    "D": "Strikeout",
+    "answer": "A"
+  },
+  {
+    "question": "Which Asian country has dominated the sport of table tennis historically?",
+    "A": "South Korea",
+    "B": "Japan",
+    "C": "China",
+    "D": "India",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Heisman Trophy' is awarded annually to the most outstanding player in which college sport in the USA?",
+    "A": "Basketball",
+    "B": "Baseball",
+    "C": "American Football",
+    "D": "Soccer",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for scoring three goals in a single ice hockey game by one player?",
+    "A": "A Double",
+    "B": "A Hat-Trick",
+    "C": "A Triple",
+    "D": "A Power Play",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous athlete is associated with the phrase 'Float like a butterfly, sting like a bee'?",
+    "A": "Mike Tyson",
+    "B": "Floyd Mayweather",
+    "C": "Muhammad Ali",
+    "D": "Rocky Marciano",
+    "answer": "C"
+  },
+  {
+    "question": "The five rings on the Olympic flag represent...",
+    "A": "The five senses",
+    "B": "The five continents",
+    "C": "The five events",
+    "D": "The five colors",
+    "answer": "B"
+  },
+  {
+    "question": "In which sport would you find positions named 'scrum-half' and 'fly-half'?",
+    "A": "Soccer",
+    "B": "Basketball",
+    "C": "Rugby",
+    "D": "Hockey",
+    "answer": "C"
+  },
+  {
+    "question": "What is the distance of a marathon race in kilometers (approximately)?",
+    "A": "26.2 km",
+    "B": "42.2 km",
+    "C": "50 km",
+    "D": "100 km",
+    "answer": "B"
+  },
+  {
+    "question": "Which international football (soccer) award is given annually to the world's best player?",
+    "A": "Golden Boot",
+    "B": "Golden Glove",
+    "C": "Ballon d'Or",
+    "D": "Puskas Award",
+    "answer": "C"
+  },
+  {
+    "question": "In golf, what is it called when you complete a hole in two strokes under par?",
+    "A": "Birdie",
+    "B": "Par",
+    "C": "Eagle",
+    "D": "Albatross",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is the birthplace of the sport 'Judo'?",
+    "A": "China",
+    "B": "South Korea",
+    "C": "Japan",
+    "D": "Russia",
+    "answer": "C"
+  },
+  {
+    "question": "Who is the only person to have played in both the FIFA World Cup and the Cricket World Cup?",
+    "A": "Viv Richards",
+    "B": "Gary Sobers",
+    "C": "Ian Botham",
+    "D": "None of the above",
+    "answer": "A"
+  },
+  {
+    "question": "What is the main objective of the sport of 'Curling'?",
+    "A": "Throw a stone the furthest",
+    "B": "Slide stones across the ice toward a target (the 'house')",
+    "C": "Score goals with sticks",
+    "D": "Carry a stone around an obstacle course",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Wimbledon Championships' are the oldest and most prestigious tournament in which sport?",
+    "A": "Squash",
+    "B": "Badminton",
+    "C": "Tennis",
+    "D": "Polo",
+    "answer": "C"
+  },
+  {
+    "question": "In which event did Michael Phelps win multiple gold medals, becoming the most decorated Olympian of all time?",
+    "A": "Gymnastics",
+    "B": "Athletics (Running)",
+    "C": "Swimming",
+    "D": "Cycling",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for an offensive player in basketball illegally contacting a stationary defensive player?",
+    "A": "Traveling",
+    "B": "Blocking",
+    "C": "Charging",
+    "D": "Holding",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Ryder Cup' is a biennial team competition in which sport, contested between Europe and the USA?",
+    "A": "Tennis",
+    "B": "Golf",
+    "C": "Badminton",
+    "D": "Polo",
+    "answer": "B"
+  },
+  {
+    "question": "Which city hosted the 2008 Summer Olympics?",
+    "A": "London",
+    "B": "Sydney",
+    "C": "Beijing",
+    "D": "Rio de Janeiro",
+    "answer": "C"
+  },
+  {
+    "question": "In Formula 1 racing, what does the acronym 'DRS' stand for?",
+    "A": "Driver Reaction Speed",
+    "B": "Drag Reduction System",
+    "C": "Dynamic Racing Strategy",
+    "D": "Downforce Regulation System",
+    "answer": "B"
+  },
+  {
+    "question": "Which term is used in cricket when a batsman is dismissed by the ball hitting the wicket (stumps)?",
+    "A": "Caught",
+    "B": "Run Out",
+    "C": "Bowled",
+    "D": "Leg Before Wicket (LBW)",
+    "answer": "C"
+  },
+  {
+    "question": "The term 'Hat-trick' (three goals/wickets in a row) originated from which sport?",
+    "A": "Soccer",
+    "B": "Cricket",
+    "C": "Ice Hockey",
+    "D": "Lacrosse",
+    "answer": "B"
+  },
+  {
+    "question": "Which legendary basketball player was known for the 'fadeaway' jumper and played for the Chicago Bulls?",
+    "A": "LeBron James",
+    "B": "Kobe Bryant",
+    "C": "Michael Jordan",
+    "D": "Magic Johnson",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Copa America' is the main international football competition for which continent?",
+    "A": "Europe",
+    "B": "Asia",
+    "C": "South America",
+    "D": "North America",
+    "answer": "C"
+  },
+  {
+    "question": "In which country did the sport of 'Badminton' originate?",
+    "A": "China",
+    "B": "England",
+    "C": "India",
+    "D": "Malaysia",
+    "answer": "C"
+  },
+  {
+    "question": "Which female tennis player holds the record for the most Grand Slam singles titles in the Open Era?",
+    "A": "Steffi Graf",
+    "B": "Serena Williams",
+    "C": "Martina Navratilova",
+    "D": "Margaret Court",
+    "answer": "B"
+  },
+  {
+    "question": "In boxing, what is the term for a hit that causes a fighter to fall to the floor and be unable to continue?",
+    "A": "TKO",
+    "B": "Knockout (KO)",
+    "C": "Decision",
+    "D": "Unanimous",
+    "answer": "B"
+  },
+  {
+    "question": "The distance of a $100$ meters dash is approximately equal to the length of a standard...",
+    "A": "Football field (soccer)",
+    "B": "Tennis court",
+    "C": "Basketball court",
+    "D": "Cricket pitch",
+    "answer": "A"
+  },
+  {
+    "question": "Which sport is played at 'Lord's' in London, often called the 'Home of Cricket'?",
+    "A": "Soccer",
+    "B": "Rugby",
+    "C": "Cricket",
+    "D": "Field Hockey",
+    "answer": "C"
+  },
+  {
+    "question": "In which Olympic event would you find the disciplines of shooting, fencing, swimming, equestrian show jumping, and running?",
+    "A": "Decathlon",
+    "B": "Pentathlon (Modern Pentathlon)",
+    "C": "Heptathlon",
+    "D": "Triathlon",
+    "answer": "B"
+  },
+  {
+    "question": "Which team won the first ever Super Bowl (American Football championship)?",
+    "A": "Green Bay Packers",
+    "B": "Kansas City Chiefs",
+    "C": "Dallas Cowboys",
+    "D": "New England Patriots",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the famous running event held annually in Boston, Massachusetts?",
+    "A": "New York City Marathon",
+    "B": "London Marathon",
+    "C": "Boston Marathon",
+    "D": "Chicago Marathon",
+    "answer": "C"
+  },
+  {
+    "question": "Which sport involves a small, hard ball, a long bat, and positions like 'shortstop' and 'pitcher'?",
+    "A": "Cricket",
+    "B": "Baseball",
+    "C": "Rounders",
+    "D": "Softball",
+    "answer": "B"
+  },
+  {
+    "question": "The term 'Tricolour' is often associated with the flag of which international football team?",
+    "A": "Brazil",
+    "B": "Germany",
+    "C": "France (Les Bleus)",
+    "D": "Italy",
+    "answer": "C"
+  },
+  {
+    "question": "Who is the legendary football (soccer) player known as 'Pele'?",
+    "A": "Argentinian",
+    "B": "Brazilian",
+    "C": "Portuguese",
+    "D": "Spanish",
+    "answer": "B"
+  },
+  {
+    "question": "Which player holds the record for the most goals scored in the history of the FIFA World Cup tournament?",
+    "A": "Pele",
+    "B": "Miroslav Klose",
+    "C": "Ronaldo Nazário",
+    "D": "Lionel Messi",
+    "answer": "B"
+  },
+  {
+    "question": "In Olympic swimming, which stroke is not contested over $100$ metres?",
+    "A": "Freestyle",
+    "B": "Breaststroke",
+    "C": "Backstroke",
+    "D": "Butterfly",
+    "answer": "B"
+  },
+  {
+    "question": "The 'NASCAR' racing organization is primarily known for which type of motorsport?",
+    "A": "Formula 1",
+    "B": "IndyCar",
+    "C": "Stock Car Racing",
+    "D": "Rally Racing",
+    "answer": "C"
+  },
+  {
+    "question": "What is the maximum number of times a player can hit the ball consecutively in volleyball?",
+    "A": "One",
+    "B": "Two",
+    "C": "Three",
+    "D": "Four",
+    "answer": "A"
+  },
+  {
+    "question": "Which country invented the modern game of volleyball?",
+    "A": "USA",
+    "B": "Brazil",
+    "C": "China",
+    "D": "Russia",
+    "answer": "A"
+  },
+  {
+    "question": "The 'ICC T20 World Cup' in cricket is held every how many years?",
+    "A": "One",
+    "B": "Two",
+    "C": "Three",
+    "D": "Four",
+    "answer": "B"
+  },
+  {
+    "question": "In boxing, what does 'TKO' stand for?",
+    "A": "Total Knock Out",
+    "B": "Technical Knockout",
+    "C": "Total Kick Off",
+    "D": "Temporary Knock Out",
+    "answer": "B"
+  },
+  {
+    "question": "Which major tennis tournament is played on clay courts?",
+    "A": "Wimbledon",
+    "B": "US Open",
+    "C": "Australian Open",
+    "D": "French Open (Roland Garros)",
+    "answer": "D"
+  },
+  {
+    "question": "Which legendary NFL quarterback is often nicknamed 'Tom Terrific' and holds the record for most Super Bowl wins?",
+    "A": "Peyton Manning",
+    "B": "Joe Montana",
+    "C": "Tom Brady",
+    "D": "Aaron Rodgers",
+    "answer": "C"
+  },
+  {
+    "question": "The world record for the fastest goal ever scored in professional football (soccer) is often attributed to a goal scored within how many seconds of kickoff?",
+    "A": "1-3 seconds",
+    "B": "5-7 seconds",
+    "C": "10-12 seconds",
+    "D": "15-20 seconds",
+    "answer": "A"
+  },
+  {
+    "question": "In which sport is the term 'Bhut jolokia' sometimes used for a particularly fast ball?",
+    "A": "Tennis",
+    "B": "Baseball",
+    "C": "Cricket",
+    "D": "Field Hockey",
+    "answer": "C"
+  },
+  {
+    "question": "Which player is known as the 'King of Clay' due to his dominance at the French Open?",
+    "A": "Roger Federer",
+    "B": "Novak Djokovic",
+    "C": "Rafael Nadal",
+    "D": "Bjorn Borg",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Ironman Triathlon' involves three consecutive events: swimming, cycling, and what else?",
+    "A": "Rowing",
+    "B": "Running",
+    "C": "Weightlifting",
+    "D": "Canoeing",
+    "answer": "B"
+  },
+  {
+    "question": "Which country is credited with inventing the modern game of golf?",
+    "A": "England",
+    "B": "USA",
+    "C": "Scotland",
+    "D": "Ireland",
+    "answer": "C"
+  },
+  {
+    "question": "In basketball, the distance from the free-throw line to the basket is approximately how many feet?",
+    "A": "10 feet",
+    "B": "15 feet",
+    "C": "20 feet",
+    "D": "25 feet",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous Jamaican sprinter was the first man to win $100m$ and $200m$ gold medals at three consecutive Olympic Games?",
+    "A": "Asafa Powell",
+    "B": "Yohan Blake",
+    "C": "Usain Bolt",
+    "D": "Shelly-Ann Fraser-Pryce",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Super Bowl' is the final game of the season for which sports league?",
+    "A": "NBA",
+    "B": "MLB",
+    "C": "NFL",
+    "D": "NHL",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a perfect score of ten in gymnastics?",
+    "A": "Flawless",
+    "B": "Gold Standard",
+    "C": "Perfect 10",
+    "D": "Maximum Mark",
+    "answer": "C"
+  },
+  {
+    "question": "Which continent has never hosted the Summer Olympic Games?",
+    "A": "Africa",
+    "B": "South America",
+    "C": "Asia",
+    "D": "Australia",
+    "answer": "A"
+  },
+  {
+    "question": "The 'Triple Crown' in horse racing consists of three races: the Kentucky Derby, the Preakness Stakes, and the...",
+    "A": "Belmont Stakes",
+    "B": "Breeders' Cup",
+    "C": "Dubai World Cup",
+    "D": "Grand National",
+    "answer": "A"
+  },
+  {
+    "question": "In field hockey, the only part of the stick that can be used to hit the ball is the...",
+    "A": "Right side (flat face)",
+    "B": "Left side (round side)",
+    "C": "Both sides",
+    "D": "The tip only",
+    "answer": "A"
+  },
+  {
+    "question": "Which former F1 driver holds the record for the most World Drivers' Championships (tied with Lewis Hamilton)?",
+    "A": "Ayrton Senna",
+    "B": "Juan Manuel Fangio",
+    "C": "Michael Schumacher",
+    "D": "Alain Prost",
+    "answer": "C"
+  },
+  {
+    "question": "What is the collective term for the four major championships in professional golf?",
+    "A": "The Majors",
+    "B": "The Grand Slams",
+    "C": "The Classics",
+    "D": "The Masters",
+    "answer": "A"
+  },
+  {
+    "question": "In a competitive game of Judo, what is the maximum score that results in an immediate win?",
+    "A": "Yuko",
+    "B": "Waza-ari",
+    "C": "Ippon",
+    "D": "Koka",
+    "answer": "C"
+  },
+  {
+    "question": "Which country has won the most Olympic gold medals in total?",
+    "A": "China",
+    "B": "Russia (including Soviet Union)",
+    "C": "United States",
+    "D": "Great Britain",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Twenty20' format in cricket typically lasts for approximately how long?",
+    "A": "One day",
+    "B": "Five days",
+    "C": "Three hours",
+    "D": "Seven hours",
+    "answer": "C"
+  },
+  {
+    "question": "Who invented the game of basketball?",
+    "A": "William G. Morgan",
+    "B": "James Naismith",
+    "C": "Abner Doubleday",
+    "D": "George Hancock",
+    "answer": "B"
+  },
+  {
+    "question": "In which position does the famous Indian cricketer Virat Kohli primarily bat?",
+    "A": "Opening Batsman",
+    "B": "Middle Order Batsman",
+    "C": "Tail-ender",
+    "D": "Wicket-keeper",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Boston Celtics' and 'Los Angeles Lakers' are famous teams in which professional league?",
+    "A": "NFL",
+    "B": "MLB",
+    "C": "NBA",
+    "D": "NHL",
+    "answer": "C"
+  },
+  {
+    "question": "What is the maximum weight in kilograms allowed for a competitive weightlifter in the heaviest class?",
+    "A": "105 kg",
+    "B": "150 kg",
+    "C": "No Upper Limit (Super Heavyweight)",
+    "D": "200 kg",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is home to the famous 'Camp Nou' football stadium?",
+    "A": "Madrid",
+    "B": "Milan",
+    "C": "Barcelona",
+    "D": "Manchester",
+    "answer": "C"
+  },
+  {
+    "question": "In the $400$ metre hurdle race, how many hurdles does a runner have to clear?",
+    "A": "8",
+    "B": "10",
+    "C": "12",
+    "D": "15",
+    "answer": "B"
+  },
+  {
+    "question": "The term 'Shuttlecock' is associated with which racquet sport?",
+    "A": "Tennis",
+    "B": "Squash",
+    "C": "Badminton",
+    "D": "Racquetball",
+    "answer": "C"
+  },
+  {
+    "question": "What is the nationality of the famous cyclist Tadej Pogačar?",
+    "A": "France",
+    "B": "Spain",
+    "C": "Slovenia",
+    "D": "Italy",
+    "answer": "C"
+  },
+  {
+    "question": "In American Football, what is the term for the defensive action of tackling the quarterback behind the line of scrimmage?",
+    "A": "Fumble",
+    "B": "Interception",
+    "C": "Sack",
+    "D": "Touchdown",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of competition involves synchronized movements in the water accompanied by music?",
+    "A": "Water Polo",
+    "B": "Diving",
+    "C": "Synchronized Swimming (Artistic Swimming)",
+    "D": "Aquathlon",
+    "answer": "C"
+  },
+  {
+    "question": "Which Asian country has won the most medals in the sport of Olympic weightlifting?",
+    "A": "Russia",
+    "B": "China",
+    "C": "Iran",
+    "D": "Kazakhstan",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Maracana Stadium' is a famous football venue located in which city?",
+    "A": "São Paulo",
+    "B": "Buenos Aires",
+    "C": "Rio de Janeiro",
+    "D": "Montevideo",
+    "answer": "C"
+  },
+  {
+    "question": "Which former women's tennis player is famous for her powerful grunt and served the fastest women's serve on record?",
+    "A": "Serena Williams",
+    "B": "Maria Sharapova",
+    "C": "Venus Williams",
+    "D": "Martina Hingis",
+    "answer": "B"
+  },
+  {
+    "question": "In the Olympic Games, what is the event that involves a $10$-event competition for men over two days?",
+    "A": "Pentathlon",
+    "B": "Heptathlon",
+    "C": "Decathlon",
+    "D": "Triathlon",
+    "answer": "C"
+  },
+  {
+    "question": "Which country's national cricket team is nicknamed the 'Proteas'?",
+    "A": "Australia",
+    "B": "New Zealand",
+    "C": "South Africa",
+    "D": "West Indies",
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary material used to make a hockey puck?",
+    "A": "Plastic",
+    "B": "Rubber",
+    "C": "Wood",
+    "D": "Metal",
+    "answer": "B"
+  },
+  {
+    "question": "In competitive diving, what does 'DD' stand for when referring to the difficulty of a dive?",
+    "A": "Depth of Dive",
+    "B": "Difficulty Degree",
+    "C": "Double Drop",
+    "D": "Diver's Demerit",
+    "answer": "B"
+  },
+  {
+    "question": "Which Spanish city is home to the famous football club 'Real Madrid'?",
+    "A": "Barcelona",
+    "B": "Seville",
+    "C": "Madrid",
+    "D": "Valencia",
+    "answer": "C"
+  },
+  {
+    "question": "The 'America's Cup' is the oldest trophy in international sport and is contested in which discipline?",
+    "A": "Polo",
+    "B": "Sailing",
+    "C": "Rowing",
+    "D": "Equestrian",
+    "answer": "B"
+  },
+  {
+    "question": "What is the regulation height of a basketball hoop (from the floor)?",
+    "A": "8 feet",
+    "B": "9 feet",
+    "C": "10 feet",
+    "D": "11 feet",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous athlete broke the color barrier in Major League Baseball (MLB)?",
+    "A": "Babe Ruth",
+    "B": "Jackie Robinson",
+    "C": "Willie Mays",
+    "D": "Hank Aaron",
+    "answer": "B"
+  },
+  {
+    "question": "Which European country has won the FIFA World Cup the most times?",
+    "A": "Germany",
+    "B": "Italy",
+    "C": "France",
+    "D": "Both Germany and Italy (4 times each)",
+    "answer": "D"
+  },
+  {
+    "question": "In which sport is the 'Calcutta Cup' contested between England and Scotland?",
+    "A": "Football (Soccer)",
+    "B": "Cricket",
+    "C": "Rugby Union",
+    "D": "Field Hockey",
+    "answer": "C"
+  },
+  {
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "A": "Paris",
+    "B": "London",
+    "C": "Athens",
+    "D": "Rome",
+    "answer": "C"
+  },
+  {
+    "question": "How often are the Summer Olympic Games traditionally held?",
+    "A": "Every two years",
+    "B": "Every three years",
+    "C": "Every four years",
+    "D": "Every five years",
+    "answer": "C"
+  },
+  {
+    "question": "What do the five interlocking rings on the Olympic flag symbolize?",
+    "A": "The five major events",
+    "B": "The five continents",
+    "C": "The unity of athletes",
+    "D": "The ancient gods",
+    "answer": "B"
+  },
+  {
+    "question": "The motto of the Olympic Games, 'Citius, Altius, Fortius,' translates to what in English?",
+    "A": "Better, Stronger, Faster",
+    "B": "Faster, Higher, Stronger",
+    "C": "Play Hard, Play Fair, Play Together",
+    "D": "One World, One Dream",
+    "answer": "B"
+  },
+  {
+    "question": "Which athlete holds the record for the most Olympic gold medals won by an individual?",
+    "A": "Usain Bolt",
+    "B": "Carl Lewis",
+    "C": "Michael Phelps",
+    "D": "Larisa Latynina",
+    "answer": "C"
+  },
+  {
+    "question": "In which sport is the 'Decathlon' event contested?",
+    "A": "Gymnastics",
+    "B": "Swimming",
+    "C": "Athletics (Track and Field)",
+    "D": "Cycling",
+    "answer": "C"
+  },
+  {
+    "question": "What is the official distance of the Olympic Marathon race in kilometres?",
+    "A": "40.0 km",
+    "B": "42.195 km",
+    "C": "45.0 km",
+    "D": "26.2 km",
+    "answer": "B"
+  },
+  {
+    "question": "The Winter Olympic Games began in which year?",
+    "A": "1896",
+    "B": "1908",
+    "C": "1924",
+    "D": "1936",
+    "answer": "C"
+  },
+  {
+    "question": "Which country has won the most overall medals in the history of the Summer Olympic Games?",
+    "A": "China",
+    "B": "Russia (including Soviet Union)",
+    "C": "United States",
+    "D": "Germany",
+    "answer": "C"
+  },
+  {
+    "question": "What type of competition is the 'Modern Pentathlon'?",
+    "A": "Five swimming events",
+    "B": "Five gymnastics events",
+    "C": "Five running events",
+    "D": "Five different sports (fencing, swimming, equestrian, shooting, running)",
+    "answer": "D"
+  },
+  {
+    "question": "The Olympic flame is lit in which ancient location before its relay begins?",
+    "A": "Rome, Italy",
+    "B": "Olympia, Greece",
+    "C": "Delphi, Greece",
+    "D": "Athens, Greece",
+    "answer": "B"
+  },
+  {
+    "question": "Which iconic gymnast performed the first-ever perfect 10 at the Olympics?",
+    "A": "Svetlana Khorkina",
+    "B": "Nadia Comăneci",
+    "C": "Mary Lou Retton",
+    "D": "Věra Čáslavská",
+    "answer": "B"
+  },
+  {
+    "question": "In which Olympic sport are 'Ippon' and 'Waza-ari' scores used?",
+    "A": "Karate",
+    "B": "Taekwondo",
+    "C": "Judo",
+    "D": "Wrestling",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is the only one to have hosted the Summer Olympics three times?",
+    "A": "Paris",
+    "B": "London",
+    "C": "Athens",
+    "D": "Los Angeles",
+    "answer": "B"
+  },
+  {
+    "question": "The equestrian events feature which animal as a compulsory participant?",
+    "A": "Horse",
+    "B": "Camel",
+    "C": "Donkey",
+    "D": "Mule",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the organization that oversees the Olympic Games?",
+    "A": "United Nations (UN)",
+    "B": "World Sports Council (WSC)",
+    "C": "International Olympic Committee (IOC)",
+    "D": "Global Athletic Federation (GAF)",
+    "answer": "C"
+  },
+  {
+    "question": "Which swimming stroke was not part of the original Olympic program?",
+    "A": "Freestyle",
+    "B": "Breaststroke",
+    "C": "Backstroke",
+    "D": "Butterfly",
+    "answer": "D"
+  },
+  {
+    "question": "Which African country boycotted the 1976 Montreal Olympics over a political issue involving New Zealand?",
+    "A": "Kenya",
+    "B": "South Africa",
+    "C": "Nigeria",
+    "D": "Ethiopia",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Heptathlon' (seven events) is contested by which group of athletes?",
+    "A": "Men",
+    "B": "Women",
+    "C": "Both men and women",
+    "D": "Juniors only",
+    "answer": "B"
+  },
+  {
+    "question": "Which sport uses a bow and arrow to hit a target?",
+    "A": "Javelin",
+    "B": "Shooting",
+    "C": "Archery",
+    "D": "Fencing",
+    "answer": "C"
+  },
+  {
+    "question": "The Olympic Games were originally held in ancient Greece to honor which Greek god?",
+    "A": "Apollo",
+    "B": "Poseidon",
+    "C": "Zeus",
+    "D": "Ares",
+    "answer": "C"
+  },
+  {
+    "question": "In the Olympics, what is the weight of a standard men's shot put (approximately)?",
+    "A": "5.26 kg",
+    "B": "7.26 kg",
+    "C": "8.50 kg",
+    "D": "6.00 kg",
+    "answer": "B"
+  },
+  {
+    "question": "Which non-traditional Olympic sport involves synchronized moves in the water set to music?",
+    "A": "Water Polo",
+    "B": "Synchronized Swimming (Artistic Swimming)",
+    "C": "Diving",
+    "D": "Canoeing",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Berlin 1936' Olympics were controversially used for propaganda by which political regime?",
+    "A": "Soviet Union (USSR)",
+    "B": "Fascist Italy",
+    "C": "Nazi Germany",
+    "D": "Imperial Japan",
+    "answer": "C"
+  },
+  {
+    "question": "Which legendary American sprinter won four gold medals at the 1936 Berlin Olympics, defying Adolf Hitler's expectations?",
+    "A": "Jesse Owens",
+    "B": "Carl Lewis",
+    "C": "Michael Johnson",
+    "D": "Bob Beamon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the maximum number of players on a field hockey team in the Olympics?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "9",
+    "answer": "B"
+  },
+  {
+    "question": "Which city hosted the 2016 Summer Olympic Games?",
+    "A": "London",
+    "B": "Tokyo",
+    "C": "Rio de Janeiro",
+    "D": "Beijing",
+    "answer": "C"
+  },
+  {
+    "question": "In Olympic boxing, a contestant who weighs between $57$ kg and $60$ kg is generally classified as a...",
+    "A": "Flyweight",
+    "B": "Featherweight",
+    "C": "Lightweight",
+    "D": "Welterweight",
+    "answer": "C"
+  },
+  {
+    "question": "Which winter sport involves sliding headfirst down a track on a small sled?",
+    "A": "Luge",
+    "B": "Bobsleigh",
+    "C": "Skeleton",
+    "D": "Curling",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the official Olympic theme song (known worldwide for its ceremonial use)?",
+    "A": "Olympic Fanfare and Theme",
+    "B": "Ode to Joy",
+    "C": "Chariots of Fire Theme",
+    "D": "Call to the Games",
+    "answer": "A"
+  },
+  {
+    "question": "The Olympic Games were cancelled in which year(s) due to World Wars?",
+    "A": "1912, 1940",
+    "B": "1916, 1940, 1944",
+    "C": "1936, 1940",
+    "D": "1916, 1940, 1948",
+    "answer": "B"
+  },
+  {
+    "question": "Which country is the birthplace of Taekwondo, a recognized Olympic sport?",
+    "A": "Japan",
+    "B": "China",
+    "C": "South Korea",
+    "D": "Thailand",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Torino 2006' Winter Olympics were held in which country?",
+    "A": "France",
+    "B": "Canada",
+    "C": "Italy",
+    "D": "United States",
+    "answer": "C"
+  },
+  {
+    "question": "The Olympic flame is extinguished with a ceremony at the end of the Games to symbolize...",
+    "A": "The end of the ancient truce",
+    "B": "The return of the gods",
+    "C": "The closing of the competition",
+    "D": "The passage of the flame",
+    "answer": "C"
+  },
+  {
+    "question": "Which athlete is the only one to have won both a Summer and Winter Olympic medal in different events?",
+    "A": "Eddie Eagan",
+    "B": "Carl Lewis",
+    "C": "Michael Phelps",
+    "D": "Eric Heiden",
+    "answer": "A"
+  },
+  {
+    "question": "What is the minimum number of oarsmen required in an Olympic rowing event (excluding the coxswain)?",
+    "A": "One (Single Sculls)",
+    "B": "Two",
+    "C": "Four",
+    "D": "Eight",
+    "answer": "A"
+  },
+  {
+    "question": "The first televised Olympic Games were the 1936 Berlin Games, broadcast in which country?",
+    "A": "USA",
+    "B": "Germany",
+    "C": "UK",
+    "D": "France",
+    "answer": "B"
+  },
+  {
+    "question": "Which sport was the first to allow professionals to compete in the Olympics (in 1988)?",
+    "A": "Basketball",
+    "B": "Tennis",
+    "C": "Soccer",
+    "D": "Boxing",
+    "answer": "B"
+  },
+  {
+    "question": "In the $400$ metre track and field event, athletes run in...",
+    "A": "The center lanes only",
+    "B": "A straight line",
+    "C": "Separated lanes (start to finish)",
+    "D": "Lanes only for the first lap",
+    "answer": "C"
+  },
+  {
+    "question": "Which country won the most gold medals at the 2020 Tokyo Summer Olympics?",
+    "A": "China",
+    "B": "Japan",
+    "C": "Great Britain",
+    "D": "United States",
+    "answer": "D"
+  },
+  {
+    "question": "The $1980$ Summer Olympics were boycotted by several countries led by the USA due to which political event?",
+    "A": "Suez Crisis",
+    "B": "Soviet invasion of Afghanistan",
+    "C": "Vietnam War",
+    "D": "Berlin Wall construction",
+    "answer": "B"
+  },
+  {
+    "question": "Which Olympic sport involves the 'Pommel Horse' and 'Uneven Bars'?",
+    "A": "Diving",
+    "B": "Rhythmic Gymnastics",
+    "C": "Artistic Gymnastics",
+    "D": "Trampoline",
+    "answer": "C"
+  },
+  {
+    "question": "The Olympic oath is taken by one athlete, one judge, and one...",
+    "A": "Coach",
+    "B": "Volunteer",
+    "C": "Doctor",
+    "D": "Spectator",
+    "answer": "A"
+  },
+  {
+    "question": "What is the maximum number of substitutions allowed in an Olympic football (soccer) match?",
+    "A": "3",
+    "B": "5",
+    "C": "6",
+    "D": "Unlimited",
+    "answer": "B"
+  },
+  {
+    "question": "Which sport was reintroduced to the Summer Olympics in 2020 (Tokyo)?",
+    "A": "Baseball/Softball",
+    "B": "Golf",
+    "C": "Rugby Sevens",
+    "D": "Karate",
+    "answer": "A"
+  },
+  {
+    "question": "The smallest nation to ever win a Summer Olympic medal is often cited as...",
+    "A": "Andorra",
+    "B": "San Marino",
+    "C": "Liechtenstein",
+    "D": "Monaco",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a perfect score in a single dive in Olympic diving?",
+    "A": "Triple Gold",
+    "B": "Perfect 10",
+    "C": "Maximum Mark",
+    "D": "Flawless",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous swimmer, besides Michael Phelps, holds the record for the most Olympic medals won by a female athlete?",
+    "A": "Katie Ledecky",
+    "B": "Jenny Thompson",
+    "C": "Larisa Latynina",
+    "D": "Dara Torres",
+    "answer": "C"
+  },
+  {
+    "question": "The Winter Olympic sport of 'Biathlon' combines cross-country skiing with what other activity?",
+    "A": "Ice skating",
+    "B": "Shooting",
+    "C": "Jumping",
+    "D": "Snowboarding",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the holy book of Islam?",
+    "A": "The Bible",
+    "B": "The Torah",
+    "C": "The Quran",
+    "D": "The Vedas",
+    "answer": "C"
+  },
+  {
+    "question": "In which city was the Prophet Muhammad (Peace Be Upon Him) born?",
+    "A": "Medina (Madinah)",
+    "B": "Jerusalem",
+    "C": "Mecca (Makkah)",
+    "D": "Damascus",
+    "answer": "C"
+  },
+  {
+    "question": "The migration of the Prophet Muhammad (PBUH) and his followers from Mecca to Medina in 622 CE is known as the...",
+    "A": "Jihad",
+    "B": "Hajj",
+    "C": "Hijra",
+    "D": "Zakat",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the primary direction towards which Muslims pray?",
+    "A": "North",
+    "B": "Qibla (Direction of the Kaaba)",
+    "C": "West",
+    "D": "East",
+    "answer": "B"
+  },
+  {
+    "question": "What are the five pillars of Islam called?",
+    "A": "The Five Foundations",
+    "B": "The Five Obligations",
+    "C": "The Five Rules",
+    "D": "The Five Articles",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the Islamic declaration of faith, one of the Five Pillars?",
+    "A": "Salat",
+    "B": "Shahada",
+    "C": "Sawm",
+    "D": "Hajj",
+    "answer": "B"
+  },
+  {
+    "question": "What is the act of ritual prayer performed five times a day in Islam?",
+    "A": "Zakat",
+    "B": "Salat",
+    "C": "Siyam",
+    "D": "Jihad",
+    "answer": "B"
+  },
+  {
+    "question": "The obligatory annual charity given by Muslims is known as...",
+    "A": "Sadaqa",
+    "B": "Fitra",
+    "C": "Zakat",
+    "D": "Waqf",
+    "answer": "C"
+  },
+  {
+    "question": "During which Islamic month do Muslims observe fasting from dawn till sunset?",
+    "A": "Shawwal",
+    "B": "Muharram",
+    "C": "Ramadan",
+    "D": "Rajab",
+    "answer": "C"
+  },
+  {
+    "question": "What is the pilgrimage to Mecca, which all physically and financially able Muslims must undertake at least once?",
+    "A": "Umrah",
+    "B": "Ibadah",
+    "C": "Hajj",
+    "D": "Tawaf",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first Caliph after the death of the Prophet Muhammad (PBUH)?",
+    "A": "Umar ibn al-Khattab",
+    "B": "Uthman ibn Affan",
+    "C": "Abu Bakr as-Siddiq",
+    "D": "Ali ibn Abi Talib",
+    "answer": "C"
+  },
+  {
+    "question": "The largest mosque in the world, surrounding the Kaaba, is known as the...",
+    "A": "Al-Aqsa Mosque",
+    "B": "Prophet's Mosque (Al-Masjid an-Nabawi)",
+    "C": "Great Mosque of Mecca (Al-Masjid al-Haram)",
+    "D": "Blue Mosque",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the sayings and actions of the Prophet Muhammad (PBUH)?",
+    "A": "Tafsir",
+    "B": "Fiqh",
+    "C": "Hadith (Sunnah)",
+    "D": "Ijma",
+    "answer": "C"
+  },
+  {
+    "question": "The two major branches of Islam are Sunni and...",
+    "A": "Sufi",
+    "B": "Salafi",
+    "C": "Shia",
+    "D": "Ahmadiyya",
+    "answer": "C"
+  },
+  {
+    "question": "Which Islamic Empire built the Taj Mahal in India?",
+    "A": "Ottoman Empire",
+    "B": "Abbasid Caliphate",
+    "C": "Mughal Empire",
+    "D": "Umayyad Caliphate",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the Islamic festival that marks the end of Ramadan?",
+    "A": "Eid al-Adha",
+    "B": "Eid al-Fitr",
+    "C": "Ashura",
+    "D": "Mawlid",
+    "answer": "B"
+  },
+  {
+    "question": "Which ancient city in Jerusalem is home to the Dome of the Rock and Al-Aqsa Mosque?",
+    "A": "Gaza",
+    "B": "Hebron",
+    "C": "Old City of Jerusalem",
+    "D": "Bethlehem",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Golden Age' of Islam, known for its intellectual and scientific flourishing, was primarily centered in which city?",
+    "A": "Cairo",
+    "B": "Cordoba",
+    "C": "Baghdad",
+    "D": "Istanbul",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the communal Friday prayer (often involving a sermon)?",
+    "A": "Tahajjud",
+    "B": "Jumu'ah",
+    "C": "Istikhara",
+    "D": "Tarawih",
+    "answer": "B"
+  },
+  {
+    "question": "Who is considered the last prophet sent by God in Islam?",
+    "A": "Prophet Abraham",
+    "B": "Prophet Jesus",
+    "C": "Prophet Moses",
+    "D": "Prophet Muhammad (PBUH)",
+    "answer": "D"
+  },
+  {
+    "question": "In the Quran, what is the term for a chapter?",
+    "A": "Ayah",
+    "B": "Juz",
+    "C": "Sura",
+    "D": "Ruku",
+    "answer": "C"
+  },
+  {
+    "question": "What is the literal meaning of the Arabic word 'Islam'?",
+    "A": "Peace and Justice",
+    "B": "Submission to God",
+    "C": "The Straight Path",
+    "D": "The Great Nation",
+    "answer": "B"
+  },
+  {
+    "question": "Which European country was ruled by Islamic dynasties (Al-Andalus) for nearly 800 years?",
+    "A": "Italy",
+    "B": "Spain and Portugal",
+    "C": "Greece",
+    "D": "France",
+    "answer": "B"
+  },
+  {
+    "question": "The Kaaba, located in Mecca, is believed to have been originally built by which two prophets?",
+    "A": "Muhammad and Jesus",
+    "B": "Abraham and Ishmael",
+    "C": "Moses and Aaron",
+    "D": "Adam and Noah",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the concept of 'Oneness of God' in Islam?",
+    "A": "Shirk",
+    "B": "Tawhid",
+    "C": "Nabuwwah",
+    "D": "Akhirah",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the four major Rightly Guided Caliphs was assassinated while reading the Quran?",
+    "A": "Abu Bakr",
+    "B": "Umar",
+    "C": "Uthman",
+    "D": "Ali",
+    "answer": "C"
+  },
+  {
+    "question": "The traditional Islamic lunar calendar begins with the year of the...",
+    "A": "Birth of the Prophet",
+    "B": "First Revelation of the Quran",
+    "C": "Hijra (Migration to Medina)",
+    "D": "Conquest of Mecca",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the angel who is believed to have brought the Quranic revelations to Prophet Muhammad (PBUH)?",
+    "A": "Israfil",
+    "B": "Mika'il",
+    "C": "Jibril (Gabriel)",
+    "D": "Azra'il",
+    "answer": "C"
+  },
+  {
+    "question": "The term 'Halal' generally means...",
+    "A": "Forbidden or unlawful",
+    "B": "Recommended or preferred",
+    "C": "Permitted or lawful",
+    "D": "Neutral or indifferent",
+    "answer": "C"
+  },
+  {
+    "question": "The 'Dome of the Rock' structure in Jerusalem is most famous for housing what sacred object/site?",
+    "A": "The Ark of the Covenant",
+    "B": "The foundation stone (where Prophet Muhammad ascended to heaven)",
+    "C": "The remnants of the First Temple",
+    "D": "The original Quran manuscript",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for Islamic jurisprudence or the theory of law?",
+    "A": "Sharia",
+    "B": "Fiqh",
+    "C": "Tafsir",
+    "D": "Sira",
+    "answer": "B"
+  },
+  {
+    "question": "Which country has the largest Muslim population in the world?",
+    "A": "India",
+    "B": "Pakistan",
+    "C": "Indonesia",
+    "D": "Nigeria",
+    "answer": "C"
+  },
+  {
+    "question": "The first major Islamic dynasty to rule after the four Rightly Guided Caliphs was the...",
+    "A": "Abbasid Caliphate",
+    "B": "Umayyad Caliphate",
+    "C": "Fatimid Caliphate",
+    "D": "Ottoman Empire",
+    "answer": "B"
+  },
+  {
+    "question": "What is the main purpose of the Muslim greeting 'As-salamu alaykum'?",
+    "A": "A wish for prosperity",
+    "B": "A wish for peace and mercy",
+    "C": "A declaration of belief",
+    "D": "An invitation to prayer",
+    "answer": "B"
+  },
+  {
+    "question": "Which Islamic scientific concept is the basis for modern algebra (from the book Al-Jabr)?",
+    "A": "Calculus",
+    "B": "Geometry",
+    "C": "Algebra",
+    "D": "Trigonometry",
+    "answer": "C"
+  },
+  {
+    "question": "The Muslim festival of 'Eid al-Adha' commemorates which event in the life of Prophet Abraham (Ibrahim)?",
+    "A": "His birth",
+    "B": "His journey to Mecca",
+    "C": "His willingness to sacrifice his son",
+    "D": "The end of his fasting",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the two holy cities of Islam located in Saudi Arabia?",
+    "A": "Jerusalem and Damascus",
+    "B": "Mecca and Baghdad",
+    "C": "Medina and Cairo",
+    "D": "Mecca and Medina",
+    "answer": "D"
+  },
+  {
+    "question": "The 'Shahada' is recited by new converts to Islam to publicly affirm their...",
+    "A": "Commitment to fasting",
+    "B": "Belief in the oneness of God and the prophethood of Muhammad",
+    "C": "Intention to perform Hajj",
+    "D": "Pledge to give Zakat",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a scholar trained in Islamic law?",
+    "A": "Muezzin",
+    "B": "Imam",
+    "C": "Mufti",
+    "D": "Qari",
+    "answer": "C"
+  },
+  {
+    "question": "The Ottoman Empire, one of the longest-lasting Islamic empires, was primarily centered in which modern-day country?",
+    "A": "Egypt",
+    "B": "Iran",
+    "C": "Turkey",
+    "D": "Saudi Arabia",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the recitation of the Quran, often used in a competition setting?",
+    "A": "Hifz",
+    "B": "Tajweed",
+    "C": "Qira'at",
+    "D": "Tilawah",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous North African traveler and scholar is known for his extensive journey throughout the Islamic world and beyond?",
+    "A": "Al-Biruni",
+    "B": "Ibn Sina (Avicenna)",
+    "C": "Ibn Battuta",
+    "D": "Al-Khwarizmi",
+    "answer": "C"
+  },
+  {
+    "question": "The word 'Sufism' refers to which mystical dimension of Islam?",
+    "A": "Islamic Law",
+    "B": "Islamic Philosophy",
+    "C": "Islamic Mysticism",
+    "D": "Islamic Warfare",
+    "answer": "C"
+  },
+  {
+    "question": "Which Islamic Caliphate governed a vast territory stretching from Spain to India at its height?",
+    "A": "Mughal Empire",
+    "B": "Umayyad Caliphate",
+    "C": "Abbasid Caliphate",
+    "D": "Fatimid Caliphate",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the period of waiting ('iddah') a divorced or widowed woman must observe before remarrying?",
+    "A": "Haram",
+    "B": "Halal",
+    "C": "Iddah",
+    "D": "Khulu",
+    "answer": "C"
+  },
+  {
+    "question": "The Islamic teaching that prohibits the charging of interest on loans is known as...",
+    "A": "Riba",
+    "B": "Gharar",
+    "C": "Maysir",
+    "D": "Waqf",
+    "answer": "A"
+  },
+  {
+    "question": "Which famous battle in 624 CE was the first major military victory for the early Muslims against the Meccans?",
+    "A": "Battle of Uhud",
+    "B": "Battle of the Trench (Khandaq)",
+    "C": "Battle of Badr",
+    "D": "Conquest of Mecca",
+    "answer": "C"
+  },
+  {
+    "question": "What is the Arabic term for the place of worship for Muslims?",
+    "A": "Madrassa",
+    "B": "Mosque (Masjid)",
+    "C": "Khanqah",
+    "D": "Zawiya",
+    "answer": "B"
+  },
+  {
+    "question": "The 'Hadith Qudsi' refers to the sayings of the Prophet Muhammad (PBUH) which are directly attributed to whom?",
+    "A": "The companions",
+    "B": "God (Allah)",
+    "C": "The angels",
+    "D": "Other prophets",
+    "answer": "B"
+  }
+]
